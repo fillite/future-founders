@@ -1,0 +1,776 @@
+{
+ "updated": "2026-09-09T14:12:46.233Z",
+ "count": 45,
+ "people": [
+  {
+   "id": "altman",
+   "name": "샘 올트먼",
+   "en": "Sam Altman",
+   "company": "OpenAI",
+   "region": "us",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2015",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025",
+    "TIME CEO of the Year 2023"
+   ],
+   "desc": "ChatGPT로 생성형 AI 시대를 연 장본인. AGI(범용 인공지능)를 향한 경쟁의 최전선에 있으며, 스타게이트 등 초대형 AI 인프라 프로젝트를 주도한다.",
+   "link": "https://openai.com"
+  },
+  {
+   "id": "huang",
+   "name": "젠슨 황",
+   "en": "Jensen Huang",
+   "company": "NVIDIA (공동창업)",
+   "region": "us",
+   "fields": [
+    "반도체",
+    "AI"
+   ],
+   "founded": "1993",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025",
+    "Fortune 파워 비즈니스 인물 1위 2025"
+   ],
+   "desc": "AI 혁명의 하드웨어 기반을 만든 인물. 엔비디아를 세계 최초 시가총액 4조 달러 기업으로 키웠다. 모든 AI 기업이 그의 칩 위에서 달린다.",
+   "link": "https://nvidia.com"
+  },
+  {
+   "id": "amodei",
+   "name": "다리오 아모데이",
+   "en": "Dario Amodei",
+   "company": "Anthropic (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2021",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025",
+    "TIME100 2026 (다니엘라와 공동)"
+   ],
+   "desc": "AI 안전을 최우선으로 하는 Anthropic의 창업자. Claude로 급성장하며 기업가치 약 3,800억 달러에 도달. \"강력하면서 안전한 AI\"라는 노선을 대표한다.",
+   "link": "https://anthropic.com"
+  },
+  {
+   "id": "musk",
+   "name": "일론 머스크",
+   "en": "Elon Musk",
+   "company": "Tesla · SpaceX · xAI",
+   "region": "us",
+   "fields": [
+    "우주",
+    "모빌리티",
+    "AI"
+   ],
+   "founded": "2002",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2021 · 2025"
+   ],
+   "desc": "전기차(테슬라), 재사용 로켓(스페이스X), AI(xAI/Grok)까지 미래 산업 세 축을 동시에 이끄는 유일한 인물. 화성 이주가 최종 목표.",
+   "link": "https://spacex.com"
+  },
+  {
+   "id": "zuck",
+   "name": "마크 저커버그",
+   "en": "Mark Zuckerberg",
+   "company": "Meta (창업)",
+   "region": "us",
+   "fields": [
+    "AI",
+    "소셜"
+   ],
+   "founded": "2004",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2010 · 2025"
+   ],
+   "desc": "페이스북 창업자. 오픈소스 AI(Llama)와 초지능 연구소에 천문학적 투자를 하며 AI 인재 영입 전쟁의 중심에 있다.",
+   "link": "https://meta.com"
+  },
+  {
+   "id": "lisasu",
+   "name": "리사 수",
+   "en": "Lisa Su",
+   "company": "AMD (CEO)",
+   "region": "us",
+   "fields": [
+    "반도체",
+    "AI"
+   ],
+   "founded": "—",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025"
+   ],
+   "desc": "창업자는 아니지만 몰락하던 AMD를 부활시켜 엔비디아의 유일한 대항마로 키운 전설적 경영자. AI 칩 경쟁 구도를 만든 핵심 인물.",
+   "link": "https://amd.com"
+  },
+  {
+   "id": "feifei",
+   "name": "페이페이 리",
+   "en": "Fei-Fei Li",
+   "company": "World Labs (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2024",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025"
+   ],
+   "desc": "\"AI의 대모\"로 불리는 스탠퍼드 교수. 이미지넷으로 딥러닝 혁명의 문을 열었고, 이제 공간지능(Spatial AI) 스타트업 월드랩스를 창업했다.",
+   "link": "https://worldlabs.ai"
+  },
+  {
+   "id": "truell",
+   "name": "마이클 트루엘",
+   "en": "Michael Truell",
+   "company": "Cursor · Anysphere (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI",
+    "소프트웨어"
+   ],
+   "founded": "2022",
+   "hot": true,
+   "honors": [
+    "기업가치 500억 달러 협상 중 (2026)"
+   ],
+   "desc": "25세에 AI 코딩 도구 커서(Cursor)로 창업 24개월 만에 연매출 20억 달러를 달성한 신기록의 주인공. 파운데이션 모델 랩을 제외하면 가장 비싼 AI 소프트웨어 기업을 만들었다.",
+   "link": "https://cursor.com"
+  },
+  {
+   "id": "sutskever",
+   "name": "일리야 수츠케버",
+   "en": "Ilya Sutskever",
+   "company": "Safe Superintelligence (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2024",
+   "hot": true,
+   "honors": [
+    "OpenAI 공동창업 · 前 수석과학자"
+   ],
+   "desc": "딥러닝 혁명의 핵심 과학자. OpenAI를 떠나 \"제품도, 매출도 없이 오직 안전한 초지능만 만든다\"는 전례 없는 회사 SSI를 세웠다. 무엇을 만들고 있는지가 업계 최대의 미스터리.",
+   "link": "https://ssi.inc"
+  },
+  {
+   "id": "srinivas",
+   "name": "아라빈드 스리니바스",
+   "en": "Aravind Srinivas",
+   "company": "Perplexity (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI",
+    "검색"
+   ],
+   "founded": "2022",
+   "hot": true,
+   "honors": [
+    "월 7.8억 건 질의 처리"
+   ],
+   "desc": "구글의 아성에 정면 도전하는 AI 검색의 선두주자. 월 사용자 3,000만 명을 넘기며 \"검색의 미래는 답변\"이라는 명제를 증명하고 있다.",
+   "link": "https://perplexity.ai"
+  },
+  {
+   "id": "alexandrwang",
+   "name": "알렉산더 왕",
+   "en": "Alexandr Wang",
+   "company": "Scale AI (창업) → Meta 초지능랩",
+   "region": "us",
+   "fields": [
+    "AI",
+    "데이터"
+   ],
+   "founded": "2016",
+   "hot": true,
+   "honors": [
+    "최연소 자수성가 억만장자 기록"
+   ],
+   "desc": "19세에 AI 데이터 라벨링 제국 스케일AI를 창업. 2025년 메타가 회사 지분과 함께 그를 영입해 초지능 연구소를 맡겼다. AI 인재 전쟁의 상징적 인물.",
+   "link": "https://scale.com"
+  },
+  {
+   "id": "murati",
+   "name": "미라 무라티",
+   "en": "Mira Murati",
+   "company": "Thinking Machines Lab (창업)",
+   "region": "us",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2025",
+   "hot": true,
+   "honors": [
+    "前 OpenAI CTO"
+   ],
+   "desc": "ChatGPT 개발을 지휘했던 OpenAI 전 CTO. 독립해 세운 씽킹머신즈랩은 창업 직후부터 역대급 투자를 받으며 차세대 AI 다크호스로 꼽힌다.",
+   "link": "https://thinkingmachines.ai"
+  },
+  {
+   "id": "luckey",
+   "name": "팔머 럭키",
+   "en": "Palmer Luckey",
+   "company": "Anduril (공동창업)",
+   "region": "us",
+   "fields": [
+    "방산",
+    "AI"
+   ],
+   "founded": "2017",
+   "honors": [
+    "TIME100 선정 이력"
+   ],
+   "desc": "오큘러스(VR)를 만들어 페이스북에 판 뒤, AI 방위산업 스타트업 안두릴을 창업. 자율 무기와 국방 AI라는 논쟁적이지만 거대한 미래 산업을 열고 있다.",
+   "link": "https://anduril.com"
+  },
+  {
+   "id": "karp",
+   "name": "알렉스 카프",
+   "en": "Alex Karp",
+   "company": "Palantir (공동창업)",
+   "region": "us",
+   "fields": [
+    "AI",
+    "데이터"
+   ],
+   "founded": "2003",
+   "honors": [
+    "TIME100 선정 이력"
+   ],
+   "desc": "정부·기업의 데이터 분석 제국 팔란티어의 공동창업자. AI 시대에 \"데이터를 무기로 만드는 회사\"로 주가와 영향력이 폭등했다.",
+   "link": "https://palantir.com"
+  },
+  {
+   "id": "collison",
+   "name": "패트릭 콜리슨",
+   "en": "Patrick Collison",
+   "company": "Stripe (공동창업)",
+   "region": "us",
+   "fields": [
+    "핀테크"
+   ],
+   "founded": "2010",
+   "honors": [
+    "최연소 자수성가 억만장자 기록"
+   ],
+   "desc": "아일랜드 출신 형제가 미국에서 세운 스트라이프는 인터넷 결제 인프라의 표준. \"인터넷의 GDP를 키운다\"는 비전으로 AI 결제 시대도 준비 중.",
+   "link": "https://stripe.com"
+  },
+  {
+   "id": "kimbeomsu",
+   "name": "김범수",
+   "en": "Brian Kim",
+   "company": "카카오 (창업)",
+   "region": "kr",
+   "fields": [
+    "플랫폼",
+    "AI"
+   ],
+   "founded": "2010",
+   "honors": [
+    "한국 IT 창업 1세대 상징"
+   ],
+   "desc": "한게임→카카오톡으로 한국인의 일상을 바꾼 창업자. 국민 메신저 위에 금융·모빌리티·콘텐츠 제국을 세웠다.",
+   "link": "https://kakaocorp.com"
+  },
+  {
+   "id": "leehaejin",
+   "name": "이해진",
+   "en": "Lee Hae-jin",
+   "company": "네이버 (창업)",
+   "region": "kr",
+   "fields": [
+    "플랫폼",
+    "AI"
+   ],
+   "founded": "1999",
+   "honors": [
+    "소버린 AI 전략 주도"
+   ],
+   "desc": "검색으로 시작해 하이퍼클로바X까지, 한국형 \"소버린 AI\"(자국 AI 주권)를 이끄는 창업자. 웹툰·라인으로 글로벌 확장도 성공시켰다.",
+   "link": "https://navercorp.com"
+  },
+  {
+   "id": "kimbomseok",
+   "name": "김범석",
+   "en": "Bom Kim",
+   "company": "쿠팡 (창업)",
+   "region": "kr",
+   "fields": [
+    "커머스",
+    "물류"
+   ],
+   "founded": "2010",
+   "honors": [
+    "NYSE 상장 한국 기업 신화"
+   ],
+   "desc": "로켓배송으로 한국 유통을 재발명하고 뉴욕증시 상장까지 성공. 물류+AI 자동화로 아시아 커머스의 미래를 실험 중이다.",
+   "link": "https://coupang.com"
+  },
+  {
+   "id": "leeseunggun",
+   "name": "이승건",
+   "en": "Lee Seung-gun",
+   "company": "토스 · 비바리퍼블리카 (창업)",
+   "region": "kr",
+   "fields": [
+    "핀테크"
+   ],
+   "founded": "2013",
+   "honors": [
+    "한국 대표 핀테크 데카콘"
+   ],
+   "desc": "치과의사 출신으로 간편송금 토스를 창업, 은행·증권·보험을 아우르는 슈퍼앱으로 키웠다. 미국 상장을 준비하는 한국 핀테크의 얼굴.",
+   "link": "https://toss.im"
+  },
+  {
+   "id": "bang",
+   "name": "방시혁",
+   "en": "Bang Si-hyuk",
+   "company": "하이브 (창업)",
+   "region": "kr",
+   "fields": [
+    "콘텐츠",
+    "엔터"
+   ],
+   "founded": "2005",
+   "honors": [
+    "TIME100 선정 이력"
+   ],
+   "desc": "BTS를 만들어 K팝을 세계 주류 산업으로 끌어올린 프로듀서 겸 창업자. 팬 플랫폼(위버스)과 AI 오디오 기술로 엔터의 미래를 설계한다.",
+   "link": "https://hybecorp.com"
+  },
+  {
+   "id": "kimsunghoon",
+   "name": "김성훈",
+   "en": "Sung Kim",
+   "company": "업스테이지 (창업)",
+   "region": "kr",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2020",
+   "honors": [
+    "한국 대표 LLM 스타트업"
+   ],
+   "desc": "홍콩과기대 교수·네이버 AI 리더 출신. 한국형 LLM \"솔라(Solar)\"로 글로벌 오픈모델 리더보드 1위를 기록하며 한국 AI의 자존심이 됐다.",
+   "link": "https://upstage.ai"
+  },
+  {
+   "id": "baekjunho",
+   "name": "백준호",
+   "en": "June Paik",
+   "company": "퓨리오사AI (창업)",
+   "region": "kr",
+   "fields": [
+    "AI 반도체"
+   ],
+   "founded": "2017",
+   "hot": true,
+   "honors": [
+    "메타 인수 제안 거절로 화제"
+   ],
+   "desc": "AI 추론 칩 \"레니게이드\"를 만드는 한국 AI 반도체 대표주자. 메타의 인수 제안을 거절하고 독자 노선을 택해 \"한국의 엔비디아\"에 도전 중.",
+   "link": "https://furiosa.ai"
+  },
+  {
+   "id": "parksunghyun",
+   "name": "박성현",
+   "en": "Sunghyun Park",
+   "company": "리벨리온 (창업)",
+   "region": "kr",
+   "fields": [
+    "AI 반도체"
+   ],
+   "founded": "2020",
+   "honors": [
+    "한국 AI 반도체 첫 유니콘"
+   ],
+   "desc": "인텔·스페이스X 출신 엔지니어. AI 추론 칩 \"아톰\"으로 국내 첫 AI 반도체 유니콘을 만들었고 사피온과 합병해 몸집을 키웠다.",
+   "link": "https://rebellions.ai"
+  },
+  {
+   "id": "leeseyoung",
+   "name": "이세영",
+   "en": "Lee Se-young",
+   "company": "뤼튼테크놀로지스 (창업)",
+   "region": "kr",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2021",
+   "hot": true,
+   "honors": [
+    "MAU 500만 돌파"
+   ],
+   "desc": "\"AI 슈퍼앱\"을 표방하는 뤼튼으로 한국 생성형 AI 대중화를 이끄는 90년대생 창업자. 검색·캐릭터·과제 도우미까지, 한국인의 AI 일상 입구를 선점하고 있다.",
+   "link": "https://wrtn.ai"
+  },
+  {
+   "id": "jangbyunggyu",
+   "name": "장병규",
+   "en": "Chang Byung-gyu",
+   "company": "크래프톤 (창업)",
+   "region": "kr",
+   "fields": [
+    "게임",
+    "AI"
+   ],
+   "founded": "2007",
+   "honors": [
+    "배틀그라운드 글로벌 흥행"
+   ],
+   "desc": "네오위즈·첫눈을 거쳐 크래프톤을 창업, 배틀그라운드로 한국 게임의 글로벌 기록을 새로 썼다. 딥러닝 기반 버추얼 프렌드 등 AI 게임에 공격적 투자 중.",
+   "link": "https://krafton.com"
+  },
+  {
+   "id": "liang",
+   "name": "량원펑",
+   "en": "Liang Wenfeng",
+   "company": "DeepSeek (창업)",
+   "region": "cn",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2023",
+   "hot": true,
+   "honors": [
+    "TIME100 2025"
+   ],
+   "desc": "헤지펀드로 번 돈으로 AI 연구소 딥시크를 창업. 극히 적은 비용으로 최상위 모델을 만들어 2025년 초 미국 증시를 뒤흔든 \"딥시크 쇼크\"의 주인공.",
+   "link": "https://deepseek.com"
+  },
+  {
+   "id": "wangxingxing",
+   "name": "왕싱싱",
+   "en": "Wang Xingxing",
+   "company": "유니트리 Unitree (창업)",
+   "region": "cn",
+   "fields": [
+    "로봇"
+   ],
+   "founded": "2016",
+   "hot": true,
+   "honors": [
+    "휴머노이드 로봇 가격 파괴"
+   ],
+   "desc": "90년대생 로봇 천재. 4족 로봇과 휴머노이드를 파격적인 가격에 내놓으며 로봇 대중화 시대를 앞당기고 있다. 중국 로봇 굴기의 상징.",
+   "link": "https://unitree.com"
+  },
+  {
+   "id": "zhangyiming",
+   "name": "장이밍",
+   "en": "Zhang Yiming",
+   "company": "바이트댄스 (창업)",
+   "region": "cn",
+   "fields": [
+    "AI",
+    "콘텐츠"
+   ],
+   "founded": "2012",
+   "honors": [
+    "중국 최고 부자 등극"
+   ],
+   "desc": "틱톡으로 전 세계의 시간을 점령한 추천 알고리즘의 제왕. 경영 일선에서 물러난 뒤에도 AI 연구에 집중하며 바이트댄스를 AI 거인으로 바꾸고 있다.",
+   "link": "https://bytedance.com"
+  },
+  {
+   "id": "wangchuanfu",
+   "name": "왕촨푸",
+   "en": "Wang Chuanfu",
+   "company": "BYD (창업)",
+   "region": "cn",
+   "fields": [
+    "모빌리티",
+    "배터리"
+   ],
+   "founded": "1995",
+   "honors": [
+    "테슬라 판매량 추월"
+   ],
+   "desc": "배터리 회사로 시작해 세계 1위 전기차 기업을 만든 엔지니어 출신 창업자. \"기술의 수직계열화\"로 전기차 가격 경쟁의 룰을 바꿨다.",
+   "link": "https://byd.com"
+  },
+  {
+   "id": "zeng",
+   "name": "쩡위췬 (로빈 정)",
+   "en": "Robin Zeng",
+   "company": "CATL (창업)",
+   "region": "cn",
+   "fields": [
+    "배터리",
+    "에너지"
+   ],
+   "founded": "2011",
+   "honors": [
+    "세계 배터리 점유율 1위"
+   ],
+   "desc": "세계 전기차 배터리의 3분의 1을 만드는 CATL의 창업자. 에너지 전환 시대의 \"보이지 않는 지배자\"로 불린다.",
+   "link": "https://catl.com"
+  },
+  {
+   "id": "yangzhilin",
+   "name": "양즈린",
+   "en": "Yang Zhilin",
+   "company": "문샷AI Moonshot AI (창업)",
+   "region": "cn",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2023",
+   "hot": true,
+   "honors": [
+    "오픈모델 Kimi 시리즈 화제"
+   ],
+   "desc": "칭화대 출신 90년대생 AI 연구자. 오픈 가중치 모델 \"키미(Kimi)\"로 딥시크와 함께 중국 오픈소스 AI의 쌍두마차로 떠올랐다.",
+   "link": "https://moonshot.ai"
+  },
+  {
+   "id": "frankwang",
+   "name": "왕타오 (프랭크 왕)",
+   "en": "Frank Wang",
+   "company": "DJI (창업)",
+   "region": "cn",
+   "fields": [
+    "로봇",
+    "드론"
+   ],
+   "founded": "2006",
+   "honors": [
+    "세계 드론 시장 70% 장악"
+   ],
+   "desc": "기숙사에서 창업해 세계 드론 시장을 평정한 은둔형 천재. 소비자 드론을 넘어 산업·농업 자동화로 영역을 넓히는 중.",
+   "link": "https://dji.com"
+  },
+  {
+   "id": "son",
+   "name": "손정의 (손 마사요시)",
+   "en": "Masayoshi Son",
+   "company": "소프트뱅크 (창업)",
+   "region": "jp",
+   "fields": [
+    "AI",
+    "투자"
+   ],
+   "founded": "1981",
+   "honors": [
+    "스타게이트 AI 프로젝트 주도"
+   ],
+   "desc": "재일교포 3세로 일본 최고 부호에 오른 승부사. ARM·OpenAI에 베팅하며 \"초지능(ASI) 시대의 설계자\"를 자처한다. 5,000억 달러 스타게이트의 핵심 축.",
+   "link": "https://group.softbank"
+  },
+  {
+   "id": "davidha",
+   "name": "데이비드 하",
+   "en": "David Ha",
+   "company": "Sakana AI (공동창업)",
+   "region": "jp",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2023",
+   "honors": [
+    "일본 최속 유니콘 기록"
+   ],
+   "desc": "구글브레인 출신 연구자가 도쿄에 세운 AI 연구소. 물고기 떼(사카나)처럼 작은 모델들이 협력하는 \"자연 모방 AI\"로 일본 AI의 희망이 됐다.",
+   "link": "https://sakana.ai"
+  },
+  {
+   "id": "nishikawa",
+   "name": "니시카와 도루",
+   "en": "Toru Nishikawa",
+   "company": "Preferred Networks (공동창업)",
+   "region": "jp",
+   "fields": [
+    "AI",
+    "로봇"
+   ],
+   "founded": "2014",
+   "honors": [
+    "일본 대표 딥테크 유니콘"
+   ],
+   "desc": "딥러닝을 제조업·로봇에 접목하는 일본 최고 AI 스타트업. 자체 AI 칩까지 만들며 \"일본식 AI 산업화\"의 길을 개척한다.",
+   "link": "https://preferred.jp"
+  },
+  {
+   "id": "mikitani",
+   "name": "미키타니 히로시",
+   "en": "Hiroshi Mikitani",
+   "company": "라쿠텐 (창업)",
+   "region": "jp",
+   "fields": [
+    "커머스",
+    "통신"
+   ],
+   "founded": "1997",
+   "honors": [
+    "일본 인터넷 창업 1세대"
+   ],
+   "desc": "일본 최대 이커머스 제국의 창업자. 완전 가상화 이동통신망이라는 무모한 도전으로 통신 산업의 판을 흔들고 있다.",
+   "link": "https://rakuten.co.jp"
+  },
+  {
+   "id": "hassabis",
+   "name": "데미스 허사비스",
+   "en": "Demis Hassabis",
+   "company": "DeepMind (공동창업 · 영국)",
+   "region": "eu",
+   "fields": [
+    "AI",
+    "바이오"
+   ],
+   "founded": "2010",
+   "poy": true,
+   "honors": [
+    "TIME 올해의 인물 2025",
+    "노벨 화학상 2024"
+   ],
+   "desc": "체스 신동 출신 AI 과학자. 알파고로 세상을 놀라게 했고, 알파폴드(단백질 구조 예측)로 노벨상까지 받았다. \"과학을 위한 AI\"의 최고 아이콘.",
+   "link": "https://deepmind.google"
+  },
+  {
+   "id": "mensch",
+   "name": "아르튀르 멘슈",
+   "en": "Arthur Mensch",
+   "company": "Mistral AI (공동창업 · 프랑스)",
+   "region": "eu",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2023",
+   "honors": [
+    "유럽 최고 가치 AI 스타트업"
+   ],
+   "desc": "딥마인드 출신 30대 연구자가 세운 유럽 AI의 자존심. 오픈모델 전략으로 미국·중국에 맞서는 \"유럽 AI 주권\"의 상징이 됐다.",
+   "link": "https://mistral.ai"
+  },
+  {
+   "id": "ek",
+   "name": "다니엘 에크",
+   "en": "Daniel Ek",
+   "company": "Spotify · Neko Health (창업 · 스웨덴)",
+   "region": "eu",
+   "fields": [
+    "콘텐츠",
+    "헬스케어"
+   ],
+   "founded": "2006",
+   "honors": [
+    "음악 산업 구조 재편"
+   ],
+   "desc": "스포티파이로 세계 음악 산업을 스트리밍으로 재편한 창업자. 이제 전신 스캔 헬스케어(네코헬스)와 유럽 방산 AI 투자로 다음 판을 준비한다.",
+   "link": "https://spotify.com"
+  },
+  {
+   "id": "kutylowski",
+   "name": "야로스와프 쿠티워프스키",
+   "en": "Jarek Kutylowski",
+   "company": "DeepL (창업 · 독일)",
+   "region": "eu",
+   "fields": [
+    "AI"
+   ],
+   "founded": "2017",
+   "honors": [
+    "구글번역을 이긴 번역 AI"
+   ],
+   "desc": "번역 품질 하나로 구글에 맞서 이긴 독일 스타트업. 언어 장벽 소멸이라는 미래를 가장 앞서 실현하고 있다.",
+   "link": "https://deepl.com"
+  },
+  {
+   "id": "osika",
+   "name": "안톤 오시카",
+   "en": "Anton Osika",
+   "company": "Lovable (공동창업 · 스웨덴)",
+   "region": "eu",
+   "fields": [
+    "AI",
+    "소프트웨어"
+   ],
+   "founded": "2023",
+   "hot": true,
+   "honors": [
+    "유럽 최속 성장 스타트업"
+   ],
+   "desc": "\"말로 설명만 하면 누구나 앱을 만든다\"는 러버블의 창업자. 오픈소스 GPT-엔지니어에서 출발해 수백만 사용자를 모으며 2025~26년 가장 뜨거운 유럽 스타트업이 됐다.",
+   "link": "https://lovable.dev"
+  },
+  {
+   "id": "siemiatkowski",
+   "name": "세바스티안 시에미아트코프스키",
+   "en": "Sebastian Siemiatkowski",
+   "company": "Klarna (공동창업 · 스웨덴)",
+   "region": "eu",
+   "fields": [
+    "핀테크"
+   ],
+   "founded": "2005",
+   "honors": [
+    "유럽 핀테크 대표 주자"
+   ],
+   "desc": "\"선구매 후결제(BNPL)\"를 세계에 퍼뜨린 클라르나 창업자. AI로 고객센터 인력을 대체한 사례로 \"AI 시대 기업 경영\"의 논쟁적 아이콘이 됐다.",
+   "link": "https://klarna.com"
+  },
+  {
+   "id": "beck",
+   "name": "피터 벡",
+   "en": "Peter Beck",
+   "company": "로켓랩 Rocket Lab (창업 · 뉴질랜드)",
+   "region": "etc",
+   "fields": [
+    "우주"
+   ],
+   "founded": "2006",
+   "honors": [
+    "스페이스X의 유일한 실질 경쟁자"
+   ],
+   "desc": "독학 엔지니어가 뉴질랜드에서 세운 로켓 회사. 소형 로켓 일렉트론에 이어 중형 뉴트론으로 스페이스X 독주에 도전하는 우주산업 2인자.",
+   "link": "https://rocketlabusa.com"
+  },
+  {
+   "id": "perkins",
+   "name": "멜라니 퍼킨스",
+   "en": "Melanie Perkins",
+   "company": "Canva (공동창업 · 호주)",
+   "region": "etc",
+   "fields": [
+    "소프트웨어",
+    "AI"
+   ],
+   "founded": "2013",
+   "honors": [
+    "세계 최고 가치 여성 창업 기업"
+   ],
+   "desc": "\"모두가 디자인할 수 있게\"라는 비전으로 캔바를 세운 호주 창업자. AI 디자인 도구로 어도비의 아성을 위협하고 있다.",
+   "link": "https://canva.com"
+  },
+  {
+   "id": "tan",
+   "name": "탄 민리앙",
+   "en": "Min-Liang Tan",
+   "company": "Razer (공동창업 · 싱가포르)",
+   "region": "etc",
+   "fields": [
+    "게임",
+    "하드웨어"
+   ],
+   "founded": "2005",
+   "honors": [
+    "게이머 문화의 아이콘"
+   ],
+   "desc": "변호사 출신으로 게이밍 기어 제국 레이저를 세웠다. 게임·e스포츠라는 미래 세대의 문화 산업을 하드웨어로 장악한 인물.",
+   "link": "https://razer.com"
+  }
+ ]
+}

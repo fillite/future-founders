@@ -1,0 +1,1142 @@
+{
+ "updated": "2026-09-09T14:13:59.378Z",
+ "source": "Google News RSS",
+ "people": 45,
+ "fresh": 45,
+ "items": {
+  "altman": [
+   {
+    "t": "[김대호 인물] 오픈AI 샘 올트먼 \"아스트라6= AGI 가는 길\" - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3lVTnllTjZRSC01aDhyZi11T0t5dUZrRTZCY0htc3M2SVFzeWUzRjQ2ODhldUliV1JkQjc0SGJ6c2kxbzI0cGVfbXNqNDRQZVkwYWR4R1hxYnhPUHh2X0JYMmR5MW14RDU5Sk9FNERnNFdiZHpLXzJZMmxKMDEzdk9idjZhdktF?oc=5",
+    "d": "2026-09-09",
+    "s": "글로벌이코노믹"
+   },
+   {
+    "t": "[핫클립] “뭘 도와줄까” 질문에 샘 올트먼 “전기가 곧 지능입니다” - KBS 뉴스",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZTR1YzJwRTVwcWxqN2x6cVc5c1duNlk5LUNldkFwdWJpVTRBWjE1blJKRHk3ZlFERTBxdlAyYUJxdExSRHdrR1k3RXdQQWR1dTFBQU1xT282WG8?oc=5",
+    "d": "2026-09-08",
+    "s": "KBS 뉴스"
+   },
+   {
+    "t": "앤드류 가필드, 루카 구아다니노의 ‘Artificial’ 첫 예고편서 샘 알트먼 변신 - Hypebeast.KR",
+    "l": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDFWZ0I0LVhTSjdDSllOVTlBR1pvSWgwc3NQY3FxeGJ5VFI5M3RoNzQ2Q3U4Ync0NFNpTzdSNG95dmhRUHl2RkZpc1p4Z2ZUZXJlNEp3a094RGZKNks3OF93Q0FWUkdnMWpBS2E5QTdQcV9qSDlsYWZCYzJDQU5rQWwyajFTa0pscjVHcTN2N0dDbTZyaHF0ejJNLWJZSEpJaFJJU2dBUHY0Q3JK?oc=5",
+    "d": "2026-09-09",
+    "s": "Hypebeast.KR"
+   },
+   {
+    "t": "샘 올트먼, “강력한 AI가 가져올 결과 아무도 완전히 이해하지 못해”... 아스트라, 출시 앞두고 안전성에 ‘속도 조절’ - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CbzQyd2ZtaDYwSHFtSEc1UVRFbGVfQzdobUlKWW84eEI1QkZKbEowclpXejZ3c29jb3dGWlcxeFVNUGVpSUFRaklfcWhMY1hOeV9TcGU5U3hxek91RVY3cVU2UnhhSG8?oc=5",
+    "d": "2026-09-02",
+    "s": "인공지능신문"
+   }
+  ],
+  "huang": [
+   {
+    "t": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\" - 지디넷코리아",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzVGlyVk5obTk1Q2M2VEFrd0NaOElReUtQV01rUGRYVE1iWWx5eTVDbE9zVl9hYWdnaEl6Sk0xcTR5NzNZZ0RjR2gzWUxteWdCbF93c0RR?oc=5",
+    "d": "2026-09-07",
+    "s": "지디넷코리아"
+   },
+   {
+    "t": "출시 4년 된 엔비디아 H100 몸값 역주행…한달새 대여료 22%↑ - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yc1FSa3l3MUhRZ0h1LWdOZ1ItMkE1MVE4R2NxNFgxeTBXbHBaRWJYVll0bUNidGNKSHBVYmpWdHhXTkVwd1Awckd1eXVyeUdMMENkVlNSMWFSc2fSAWBBVV95cUxNWW11c1RwUFBXVDBVU3VMbFFxQ3lnWTJZNVo4cG5ZRkZydXVaYTl3WVlmM29JemtyRFRxVnNQeGxnZkE4ZnZpU0lGdHZjT0pDVlUxSFREb2FfbHNRVmE1YUg?oc=5",
+    "d": "2026-09-08",
+    "s": "yna.co.kr"
+   },
+   {
+    "t": "[김대호 인물] 엔비디아 젠슨황 \"아스트라 찬양가\" - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnBNRmZfa2d6X1BqZHhUWWVBZjc4ZGRqcDN2NXNjTzdvOGYxSG9PeDBqZ0tNQVQxalFZNnB0RjREcjlWdEk2aGhBdU5aUDFON2E3VlhERE9KbjFOVktvcXdTbXRaMnFtWDZ0bG0yT21qVXVId0NEQVlHMnozU3JUU0wya2Nxbjda?oc=5",
+    "d": "2026-09-08",
+    "s": "글로벌이코노믹"
+   },
+   {
+    "t": "젠슨 황 엔비디아 CEO의 리더십에 대한 열광 속, 목회자들이 배울 점 : 문화 - 크리스천투데이",
+    "l": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTUmt0aV9yc3VDcEs4aXhaSFNMb2IwdWNuRVh3VnB2azNJQnAyQnA5S012bWlNLTJ1dWFkenBRU3VqQXBxOVNuelJFZGJZcWFnNVR2UENMQQ?oc=5",
+    "d": "2026-09-08",
+    "s": "크리스천투데이"
+   }
+  ],
+  "amodei": [
+   {
+    "t": "Anthropic, 노동자 전환 지원 기금 위해 AI 기업에 대한 과세 제안 - Yellow.com",
+    "l": "https://news.google.com/rss/articles/CBMirANBVV95cUxQeElsZVdpRXp0eFQ1eUZZS2lST0xIaXdVcGRnT2lZaHVrc0RXT0FBX3VmeHFVdlhXVzdRZHp5eVJpSGRxYXM2WWVIVXZZdWFHeXlITFVjUFQwd3JXazdWZGF4OFQ5UHY5Q2QxZFcyRk85S2dfUXJxbXAwQ1dYdGhaYjE0ZXNibTNldUctdmJXRFc4em1nV0dpNzFrc3ZUZ3RQNU14RTcyalJhdXVhRVVUWXp6UWVicmtDd1JvQXdESzNIRnhFMGpIRjNVYU1vYnpFT0FsMS1xdUpCWnF2emxPeld3QnhpZW1LXzd0ZU5adl8wOEhZU0ZNdkVualZHb2RCZTZqLXFVVG9rQ1l3aDZDRUFJcGNJb09sa2MyMWI3ODAzV1VsWXhGV0ZGODlnamJGTGw3WHZ1YXB4ZXo0NkVaLVJDeHdfVFl5Mm9XUkxZYm1lVExET043VlVPMDExelJ6Z3JraHd1TDJIeVdiOUl4REYwb1c4SGJ1WEpHV0hrUUtCRmJqRlFVMUc2b003cHhsa1IwWDc5U3l6R3Flb1VabWFuR3ZzRzNNM0FKMQ?oc=5",
+    "d": "2026-09-08",
+    "s": "Yellow.com"
+   },
+   {
+    "t": "“꼿꼿한 AI 전사, 앤트로픽 아모데이 CEO”… 美 국방부 압박에도 ‘AI 레드라인’ 고수 - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83QVhCR3lZWXFYR3lJTVhoVGZrVmpGbWNUcU5iRFNhNmdMQl9KYWpJTEdsNmxodU9WUTlPMVpEZzd2WEVZbVdpdmxSb3RtVXNoNkVPbXZxWGNlZzdzV09WbGhuWW1kcHc?oc=5",
+    "d": "2026-02-27",
+    "s": "인공지능신문"
+   },
+   {
+    "t": "“암 치료 광고할 시간에 진짜 암 치료해야” 앤트로픽 CEO의 반성 - 포춘코리아",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ubzh2M1JBRENxa1hpZmV2bjgxaXoyZzZ2Z05FR09fWVF1eHVkY014WWpmQWtsM1VRZjB3ZERoTW5OdV9QSVJhYk9WTHNnMlF1UmdhNTNlMkxJazktZXRlNnJRQTVfM1dqeGNrQ1lhTG9Hd9IBdkFVX3lxTE15bXBPeWl3YkYyUVI1RDlMMzBfc2VhQV95ZXQ0dDlKRTJzR1RjQ3ZmaS1pZ05RMG1JMi1JUzc4WmJzQURKNE14TjlsY1EzZnNPakZwc0E4TVBCV3RfT1cwMGY5WGdTQ0NjWFF6ZV9oSkxQSTY1OFE?oc=5",
+    "d": "2026-08-17",
+    "s": "포춘코리아"
+   },
+   {
+    "t": "앤트로픽 아모데이, AI 반발 책임론에 “신뢰의 위기” 반박…투자자와 정면충돌 - 위키트리",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yN2VPTldTUE9pdkNvWXh4U1EybjVydXZ5Ukx0bXVjVS1jYzVmN29VOUFwSUYzdmFSb1NXUXZna0dfXzZCTEdJd3g5Q1lVaHk0SENPZmxn?oc=5",
+    "d": "2026-08-17",
+    "s": "위키트리"
+   }
+  ],
+  "musk": [
+   {
+    "t": "일론 머스크 “테슬라 사이버캡 생산, 기존보다 5배 이상 빨라”···유럽 출시도 기대 - Benzinga",
+    "l": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQbFUwa1FiRXJFUVBBNXJseUhnOXBmeW5kN2NzZEFGdDB0VFRJZEJyNWxaTVlUQ0RKRHR0amZlM2Jvei1LQzhiTV8wNFFRcFFkQzg0THdrREItNEVRMXpmY1FCanl6VGVXemU4LXZnNVJOSERFQ2FWS01yTFhWbmlxU2w1MG9wVGtwS1ZQOVI1YU1VS2V1dFN5YVQ4bHZBdUMtN0NCNUVTV0tWd2JiQWg1NU1MTjZScHF2T2FkUVFzcFVDWmZGc2FWRHJtNGd2N04yQ0Q5bjg2Q2RfVFlWSmJMck1JVTN6SmxCaDEwcEhobTFaVEg2WHpNTVBVMG02OXNra3dCRkI1Z0xXX054VTN5WFVMRkQycWlrOGRRV2Rwc0tEc2ZfUlJ4VTg3RWQ5cmRuTk9pb1dOejF5dlpaY0N6RUZrRHAtTmN2MWc5cHBuczcxNi1TVERmQQ?oc=5",
+    "d": "2026-09-09",
+    "s": "Benzinga"
+   },
+   {
+    "t": "\"희토류 1g도 안썼다\" 머스크의 '사이버캡' 호언장담… 中 자원 패권 흔들기 '역부족' - 초이스스탁US",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYkVDVHBJSDB2ME1EZDZRS19yOVZLNi02aVBNWnFuTFNPU0xBdk43NUhRS001LVFfN0lBbUE1V2xENTJTeGNXQl9yc0tlQ0lxVld5Qm5lUzhsbjBjalJLNWQxTWN0bDA?oc=5",
+    "d": "2026-09-08",
+    "s": "초이스스탁US"
+   },
+   {
+    "t": "\"머스크 말 믿었는데\"..테슬라 구형 FSD 자율주행, 치명적 한계 드러나나? - 오토트리뷴",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51LVE1S0tBUDVHaXVDZFc1UmpnNWtQR3B1aVZCUW9HYUxaUUVwUGQ1bE9lT3lrMFBNYjNabE5oQUVnOU8tRldwNmlQVEVCZHR4aS1kZHdnandETE1ERWFuZjAybnIwbmhYck5CdDVBR2k?oc=5",
+    "d": "2026-09-09",
+    "s": "오토트리뷴"
+   },
+   {
+    "t": "트럼프와 화해하고 돌아온 '머스크'…美 선거판에 1천억 푼다 - 노컷뉴스",
+    "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wWTB5UlhDSjR1ajIwYTAxdWhWa29oNl9GcVdtOGhsY1FDNGNQdU40eU9Rc2NfSGFaajNZRDkxNjBMVEJCVkpncjdCaVM3dlh5OVE?oc=5",
+    "d": "2026-09-09",
+    "s": "노컷뉴스"
+   }
+  ],
+  "zuck": [
+   {
+    "t": "1900조 소송전 \"내 딸도 인스타 피해자\" \"저커버그에게 아이 맡길 수 없다\"... 前 메타 임원의 법정 폭로 - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckVkdVdNRzNHMXZKdGlyVXNuOVota0pfMTNQMzJlLTFiT2lYS1pHbWI2S0dUXzZuVmR1cDI4LTA2NENIZEw0UnJURXhXWFN4LTN6NnBiclNlNGd3VVc4YUFWSlpSSVZFRFBiOHp4WUxJdFZOQXRLY2pYSkFGNm5WT0VRQQ?oc=5",
+    "d": "2026-08-20",
+    "s": "조선일보"
+   },
+   {
+    "t": "마크 저커버그, “코딩과 에이전트 작업, 지금까지 우리가 만든 것 가운데 가장 큰 도약”...‘뮤즈 스파크 1.3’ 오픈웨이트 공개 - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YbWhiX0JFeWZtVGlRRFZ1SUdubk5jWTVKd0lRanV4ME9KR0d6M1l1UGlaN252WHNMUnQxbjFPQ0FhUnBtWDdkVDhvZFI5U1NEd2RsWWxaN1JwMTNsOEhpWk4zU2J2b00?oc=5",
+    "d": "2026-09-03",
+    "s": "인공지능신문"
+   },
+   {
+    "t": "저커버그 \"AI 전환서 실수\" 시인…\"올해 추가 대규모 감원 없어\" - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2ZXpXMVhzYTlSNFktSEgyXzlwQ1N3Rk94cDNMS0JKZkhfOVJJeVZ2a3hhbE9tZklRWkZNX2RLMUFvX0h6LXV1d3hBMHN1TkROZkZMcmQ1NjMxNlnSAWBBVV95cUxOZUZONHdzUHU3RFljcDdKT0tob1g0d1F0VjlHYWdxZlhBYzNHb1Npa0FSTFZOVXJCTUc1bERfVUg0RDJMcEdpMjdjc3YxMmVZcVFZUTdQMl9TMFp3VElNMWY?oc=5",
+    "d": "2026-06-13",
+    "s": "yna.co.kr"
+   },
+   {
+    "t": "저커버그 \"초지능 독점 안 돼\"…메타, 개방형 AI 복귀 - 지디넷코리아",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWXJiQmVaT3BWaklWQ0Z2YUlhX013NFBITlpUWmVSWEtCRUgySGlCazgzSXZEVzgtZ2k5dEtKcGRBMVFBR0Y4d2tKQTN6c1JWOWduTVh3?oc=5",
+    "d": "2026-08-11",
+    "s": "지디넷코리아"
+   }
+  ],
+  "lisasu": [
+   {
+    "t": "AMD 리사수 \"서버 CPU 시장 4년 뒤 168조\" - 아시아경제",
+    "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DTUE4bVBEcEpqQ1RlQ0V5dGlKUmV0TG9hb09oUGcwN2lGc2NPMHYwOUNfTTVuaGNtZnVEem9NOFF4Q2ZIdUlqM2wzYXd0a3U5Ukp2QXpGTExnZkNjbVRqbA?oc=5",
+    "d": "2026-05-07",
+    "s": "아시아경제"
+   },
+   {
+    "t": "AMD 리사 수, 머스크의 엔비디아 독점 채택 발언 일축 - 연합인포맥스",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSzFJQ0wyc0l2M0d2TUpOVFFSLWZfd2R6a0tpaThpaks2OS1LNDRmT013Yi0wdDEwZ01CSXFzcy1Kd2V1MHo1OXgzX09CckI4eVloanlyNy0xV21EdVgwQ05oZUFsTXlJd0w1NzROYkg?oc=5",
+    "d": "2026-08-06",
+    "s": "연합인포맥스"
+   },
+   {
+    "t": "리사 수 AMD CEO \"2030년 AI 가속기 1.4조·서버 CPU 2000억달러 시대 연다\" [AAI 2026] - 디지털데일리",
+    "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlMnZMeExnT3ZuMnQ1SGFXQ2JqU2doZDVNampyR2JjRFdIQS15dTc0OVU1NmR2MlNSQUhaRWJ3MVZDX3RudkhJS2lrNm5CVXc5RDc3WERJY2FWcVd6Yi1sa0p3?oc=5",
+    "d": "2026-07-24",
+    "s": "디지털데일리"
+   },
+   {
+    "t": "리사수 “AI가속기 시장 1.4조달러”…1년만에 전망 3배 상향[AMD 어드밴싱] - mk.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HMkJSeU5kR2J2Qy1xcGQ2cVAxeHprOVVjcHNwSVRPUUtkeVZETGI2YnRmRlFRbzEtRXFBeS14cmtOVm5WMUpMYzFzZGNwQQ?oc=5",
+    "d": "2026-07-24",
+    "s": "mk.co.kr"
+   }
+  ],
+  "feifei": [
+   {
+    "t": "[AI 이슈] 페이페이 리 교수의 '월드랩스', 세계 최초 멀티모달 월드 모델 ‘아틀라스’ 공개 - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OeFhwNGl4MzIyRThBTkx5cmZ0V1J2a2FTbVNSbDMyQy1pWmh2Nm1ueFVKQXpBVmZfMWx2RFE3S3BDYlhnY3RuenJKbnZpbWpYcGtTMUkxaTNZNmtwZWRrRUFQYnVIakU?oc=5",
+    "d": "2026-09-02",
+    "s": "인공지능신문"
+   },
+   {
+    "t": "페이페이 리의 월드랩스, 세계 최초 상용 ‘월드 모델’ 출시 - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SMHV2cnBKUG5XOUV2SzhUM2pmWGhLVzhZYjN4Vm9ISWptOUZxZXdZZGhEanpkZ01nMWU0Um9DVFNnVkNJaXZtRWRwdHhlQ0lsN0pVcThURkREQ2NlMmhrV2hJaTBFNmExckE?oc=5",
+    "d": "2025-11-14",
+    "s": "AI타임스"
+   },
+   {
+    "t": "새로운 월드모델, Atlas - 브랜드뉴스",
+    "l": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVzZud1ZYUl9DdXI4Y21CZlZyTHA0dHA1VjcxSjQwcGFQdUJPTXNPdVFVcXVLMFlkOWxmcm1SRHotM3F3T0RlVVEwSWhLVmtNVDgxMk5WQ1FnQVBUOUtBRHJPYV9JbnhhLUdBcg?oc=5",
+    "d": "2026-09-06",
+    "s": "브랜드뉴스"
+   },
+   {
+    "t": "‘AI 대모’ 페이페이 리의 월드랩스, 10억달러 투자 유치 - 조선비즈 - biz.chosun.com",
+    "l": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXBtU0NzRUgyQlhHelBwYzNCOHVEZl9ZWFVrQ1N2Z1JCRWlaT3U0MENod3FEZzQyQWVWWVl1Uk9nOUx4aFYyNGhzYmdFcHEyOHpsMXVIaW1BdExjNzgzbHJlUjZoY3h4WkI1T1JoUkJFUFg3WHRFaG5NaHhvY054X1JB0gGWAUFVX3lxTE1paHhCdFJUdkVsa3gtYWhOZGJtRGpNclVfRFBpbUNvZHZtYWNqQVVFZUg5Y29aTHdpMjBVdERhWTZIQjV4d2tmVDJwSThCR3hHQUUzSUNHcVB4aW5JdWJMTHdsN3pFUWhZbWJGZl9GZ0hJdjRVa3lsN3JtbGhWRkdUUXl5cVBLM3FiTW5Yd0tVUERiVkpQQQ?oc=5",
+    "d": "2026-02-19",
+    "s": "biz.chosun.com"
+   }
+  ],
+  "truell": [
+   {
+    "t": "스페이스X가 인수하는 ‘커서’, 그 회사를 만든 사람 - 플래텀(Platum)",
+    "l": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdUNvNllYVURxUFNQa3JrSEoxZ0Z5UzBUUDNmUllQb1FoNm5Yb0ZGR2NmV1J4N0ZOV1FCNXdHdlh6enRqR1lQWA?oc=5",
+    "d": "2026-06-18",
+    "s": "플래텀(Platum)"
+   },
+   {
+    "t": "“커서가 뭐길래?” 머스크의 스페이스X, AI 코딩 기업 ’90조원’에 산다 - 블록미디어",
+    "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9INEpRdGtBSUU5YkJyZlJHZGFIMTU5WGZVVmtnaVFOdS1mS1Rod3Y2dUpJa01IWkd4NGRjNFpfQXJVQ0Rsbzd5dE9HRmlkUTVDU2tjRzZkUlo?oc=5",
+    "d": "2026-04-22",
+    "s": "블록미디어"
+   },
+   {
+    "t": "일론 머스크, 600억달러에 '커서' 인수 고려…AI개발 툴 시장 입성할까 - 디일렉",
+    "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UWVVIQUhWXzRPTDBoZ2xrMHp5ZGpmaURLMzNQSGlHV0Z4RFdFNGN6MS1XVWRfOGlFVjFWSUNwYUZVRFVOQWhndFFsUHFhdkF4TGZjZUN3S1pfanlZWl9Ndmp6Mzhrdw?oc=5",
+    "d": "2026-04-22",
+    "s": "디일렉"
+   },
+   {
+    "t": "노트북 닫아도 AI가 코딩… 커서3, 에이전트 중심으로 재탄생 - 더에이아이",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NRC0yclRIWnlyemlzQm5GRVhhNjVTSDZoMzlLeFVMWm4xZVNlXzZnTG9zN2F6MVlzYnRDRlNjcjVEVTNFRkVHeE1hMFo1cmdLM1RWOTM4ZFpWT1ZzNmphbDJaZk5qa2R2OXc?oc=5",
+    "d": "2026-04-03",
+    "s": "더에이아이"
+   }
+  ],
+  "sutskever": [
+   {
+    "t": "일리야 수츠케버의 'SSI' 극비 연구 자료에 확인한 젠슨 황…엔비디아, 7조 원 베팅 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00M0FGQlRZT2Q0Wl9iUmpUZlFMX1ZhcFJ2Zm1jVHdUZzFmVnZCQWFYOGRJVTFkekF0SE9Ca1pTSUtEZ1RPd2ZTYm1KRGtnNjBHZThRcWR4XzV6S19fVENMaVkzZGVaWEJoeDdHVk1n0gFyQVVfeXFMTnBXc0tiMkRHMi0wQ3JSWVVHT213SHhhenVwZm5CS2Q3cGhjcG5Nc2lUWDhybTljdFFTTE13T0xSUVFVZFJJSUJhT0hSeG8xdlBabW1XTXNTb05faGpCSFNxQU9fdk5VX3ZXZFlCekFLaGJ3?oc=5",
+    "d": "2026-07-28",
+    "s": "AI포스트"
+   },
+   {
+    "t": "엔비디아, 수츠케버의 SSI에 7조 투자...\"컴퓨팅 10배 확대\" - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45TnEwZjk0U01TYjBBTFI1M2xDSVlZZm9iUlFtMlZ2NFY5c3BKbHdlNzhyZ1Fqa1ViWnBrV3dOSXFUN21jM3E2N2FNVkVXTzVPdDhEendYTjBzNk52a2FZTXVGS0h0d0lRM2c?oc=5",
+    "d": "2026-07-28",
+    "s": "AI타임스"
+   },
+   {
+    "t": "엔비디아, 수츠케버 SSI에 투자…컴퓨팅 10배 확장인데 금액은 비공개 - 위키트리",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zYWt6UThFYnpIYWgtMV8xNndnZ1ZXZ1hfM0s5OTRTVnpZNE56Y0gzTXNhck9RT0hKV0ROQUFSR0VfTkVFaVdXV2JZWTRfc2RQczliZjJ3?oc=5",
+    "d": "2026-07-27",
+    "s": "위키트리"
+   },
+   {
+    "t": "\"몸집 클수록 똑똑한 AI 저문다…월드모델로 근본적 혁신 필요\" - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fSjhVWGY0d3p5UXhXcVNvNWtwS0lpRGt1UFJ1QkVGcXFTQUhYZWRncThTencwUkstLXpLQWV2cTVwM2NPVGtPeXhFRFhjRU0?oc=5",
+    "d": "2025-12-05",
+    "s": "v.daum.net"
+   }
+  ],
+  "srinivas": [
+   {
+    "t": "검색의 종말을 고한 설계자, 아라빈드 스리니바스 - 브런치",
+    "l": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UNjV5QVp1S1hqUnhfRVBLd1pVeTdBa3hzWkU1RDN0TmlEc0U0dkhzTnhFV0o0SGFuVjBQS1ZCQ3YyZ0oyUzZtSQ?oc=5",
+    "d": "2026-03-09",
+    "s": "브런치"
+   },
+   {
+    "t": "Perplexity CEO의 명쾌한 해답 - 인천신문",
+    "l": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1a1cyZWVLM0FJbG11SE5aUGJlWG41dHhsVmgzdkhqaGhHc0J4dXVjTVhIampKX01Bb1NNWkpfOXJCcUREVFhYWncyZFlPZXp2UXBZRTRXN3Z1NUxuWFBVT0xiX1FjekZQVmh1cHhyY3RZZWhH0gF4QVVfeXFMTmUtblFlWUFEQjE3VjdLODVpUUZJTXNUODVfeVNlQkprcWVaNHlxWHNZbVBVSklYUWNpenE3R2s5cWNzWEJHQWRkQk1nODBLNjB1elJtQkpoWTlKZ3FKSTJXMWpYUnRXaUpTVWtYbmlUOHZkYXUyc25f?oc=5",
+    "d": "2026-03-23",
+    "s": "인천신문"
+   },
+   {
+    "t": "퍼플렉시티 \"2028년 상장\"…앤트로픽·오픈AI 상장과 무관하게 일정 진행한다 - AI 매터스",
+    "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pVVEtOUFhOXgwSnVmcWtHM0U5MjBadDMzS3k0dTUzeUctSkN5S2U3NDVXRUh5d3JZMTNiekZ6c3kwbk9NUjRmeWkwcVNoU2VTRlFDbA?oc=5",
+    "d": "2026-06-10",
+    "s": "AI 매터스"
+   },
+   {
+    "t": "“수조 원 쏟은 데이터센터, ‘온디바이스 AI’가 최대 위협될 것”…퍼플렉시티 CEO의 경고 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cmlZX0JnSU9Qb2NYaEw3bjkwY280eERhd1ZTUllibWtqSkdOaEtERGJ2dWJ4TzdPVGlRWFBoNGxRNklJRWRhbXp1cDZQWW1uUGM1TWFjd2kyUnI5REJEaXg4aWxiT2RuaTQyVWNR0gFyQVVfeXFMUFRZNzF0V3JXRV9pbVNSc05ETUpiRC1rNnN3NVNkS2FCOVBNVTBjdkdLNzU3djFWZjJXeFc0ZEQ3Wk5JTUFIWjZaTGl2b0pvdXpDMkotbzctdWpyQlRNSHhZQ01SNmQyTGYyVWJVMEdJd3Zn?oc=5",
+    "d": "2026-01-05",
+    "s": "AI포스트"
+   }
+  ],
+  "alexandrwang": [
+   {
+    "t": "알렉산더 왕이 메타에 AI패권을 안겨줄 수 있을까? - 포춘코리아",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iNmZBb1RsSkNlNjdfdHBRWjFkWENtQXplVlBkQWs1T3hoOG5FaFo3Z3d6MF9laXUxTl85STRRX2hFdEZhTjdJczdlMDRwRkhKV3pVWUpvcG04Tkpyd3VYZmpna29PR3pVWVBJalRlZUhId9IBdkFVX3lxTE9rV0phTG1XTkJzUVBxeDJoaDdzUnF2VVQ3dnI0QlNRMGhEaGp0X0Fyako4LUxDOHAxazdBQXpRYlhuQlU2VGJWampZYmdvdGxDeS1rNlJIeTNKcUhtM0ItSWN5Ml9LQktrcVh6VHRqOTYzYkt1SFE?oc=5",
+    "d": "2025-10-13",
+    "s": "포춘코리아"
+   },
+   {
+    "t": "저커버그가 20조에 모셔온 28세 인재 누구…‘폐쇄형 AI’ 맡긴다는데 - mk.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zWTRWWWxxcGU1UFpFZnNxMnl3eUpNYU0tanQzVGVqbnotU1RMalloalJrdV9NaUdxWjJ1ZFlGemNnZHVva1U3YmxHWkhFQQ?oc=5",
+    "d": "2025-12-10",
+    "s": "mk.co.kr"
+   },
+   {
+    "t": "28세 억만장자, 또 일냈다… 이번엔 초지능 - The Miilk",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEOVFLbFlXSFJiT2ZyUUN5TzRQMVRPMEhtZGh0U3NFQkc4UFRPeUt3bkVpakdnRENWcFNqTEEzUWxteG1LamxyMkdKX1hWNEp1RzJCMXVB?oc=5",
+    "d": "2025-06-11",
+    "s": "The Miilk"
+   },
+   {
+    "t": "\"메타, 스케일AI에 19조원대 투자 확정\"…알렉산더 왕 영입 - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkZmWjd3US1UNnItR2tSV1JBdzBSS2ZsUG9sWEpHc3hSanRtTTV1ZS10RWxQZHVEbVdycFRhVTgwQjV5Rm1yazQxaUFibFlObXJmeV9MN2RKVFnSAWBBVV95cUxPREVmZnltZThmRXl1cExuckEwb1d6S08xOFRmRWxkakg2Z3J2eWc4MHpVUXNQQ0FHY0d5MHdQa19GUFlhVEU1TjV2SmhaajlHWGRWcDcybVF2c2hLVlNqVjQ?oc=5",
+    "d": "2025-06-13",
+    "s": "yna.co.kr"
+   }
+  ],
+  "murati": [
+   {
+    "t": "미라 무라티, 성능 100단계 조절 가능한 AI모델 공개…‘오픈소스 모델’ 뜬다 [팩플] - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZd2J4Z0xDc3BsOU12SDZlSHdPOFhwN2FOdG1GUzdQNVZmM1QwbkwtdGN3bWQzelpFcFBpTmlTRFFwWHFGTWc?oc=5",
+    "d": "2026-07-16",
+    "s": "v.daum.net"
+   },
+   {
+    "t": "36세, 17조원, 그리고 AI 민주화: 미라 무라티의 새로운 혁명 - The Miilk",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xNlI1N3M0THZLRG1TbU9OQmhzaUZxbDZoQkNBRFM4elJhMXVONFhFSEwyZnRjUzdnLWt4OGt1QUZmQ3RyV3BkQUpnblpndzBrQXBDOFdB?oc=5",
+    "d": "2025-12-04",
+    "s": "The Miilk"
+   },
+   {
+    "t": "“창업 1년 만에 전 직장으로”…미라 무라티의 싱킹머신스랩 공동 창업자들, ‘오픈AI’ 전격 복귀 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrYkJmZnI1SDVndUF0TlJDTFdtQjZ4MGotWUJUc0tKbXJuOVo4b3NXOEJ0dHFqTU12MTk4NkoyUXlvTEZMODgxLXdnblRTeWlnUXNPdE5TVWpJMkZONEptb0NJdWdLT2ZwZDdRWld30gFyQVVfeXFMTm9ad3RYVEZuTUwxOFpDU1B3Q294c2NNd2pCVEV4ZDdPLTE4NHhBdFB1NUVMVU1Tam1WMUJBZXRLakZ1M2NRcGNJVGxaWVhzMkVhWUkyRHhzWTBqd2QzcDlZMC1CQkRHUmdQdWl6My1tdTl3?oc=5",
+    "d": "2026-01-15",
+    "s": "AI포스트"
+   },
+   {
+    "t": "[인물] 미라 무라티, 실리콘밸리 120억 달러 스타트업 이끈다 - 굿모닝베트남미디어",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRDNZNVFmLWZ1NEJ1LVNPV3NlNXo1NnJ5TzZsMjVvQ3p4WlRvLUJKYlgzWXFzTFNtMEQ4bU94UEg0LU84dHNtR0FlUVNyNUtOT0o2ZmdRQ0Jrdkthd212YkVOZFhBY3VHVnNWSUNpazQ?oc=5",
+    "d": "2025-10-20",
+    "s": "굿모닝베트남미디어"
+   }
+  ],
+  "luckey": [
+   {
+    "t": "美 스타트업 안두릴(Anduril) 창업자 팔머 럭키...인공지능(AI)무기 미군 현대화 핵심인물 '부상' - fairn.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iQ2lLWkM1aHU3VjhfV1Fpb0hPSnBGdTdiLUlUeC1LVUtqVFRvTzRfb1VUc2VTTUVCNnBqLUtnYVl1X2pZMWFVUnQ2dEtoaElQOWFNTlZKUlY0WjI3cVVMeHJQZFpwcjh1?oc=5",
+    "d": "2026-03-04",
+    "s": "fairn.co.kr"
+   },
+   {
+    "t": "[6) 팔란티어는 두뇌, 팔머 럭키가 세운 안두릴 인더스트리즈] “VR의 아버지”가 설계한 차세대 방위산업 플랫폼 기업. VR의 천재에서 '전쟁의 설계자'로... 파머 럭키와 42조 원의 제국 '안두릴' - AI넷",
+    "l": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Bakt1b0lYSDFhcE8zTFlGalBPOC1uSkJUdzY4LUpkdDdQdGMxQldubUJrbkJsZ3Bsa2Z4OVNMRjE?oc=5",
+    "d": "2026-01-13",
+    "s": "AI넷"
+   },
+   {
+    "t": "메타에서 쫓겨난 괴짜 천재, ‘91조 방산 기업’으로 복수하다[딥다이브] - 동아일보",
+    "l": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBleHROeHo1QzF5SzBGWko2QkwyNzd3dTYtN2JnSDI4Zk4wOHN0X3gwUzRsTVJvTkdHdWJrRXk0NGx4RTkzZTRseGdlNEEtSWhPUXVQV1doQ0dZYU41b1JHOGh5V2RMNzdqSGxFa3ZrLVNXUkdpSGfSAWZBVV95cUxOajhkTnBqX09ic0tFZ1F1RlBpdENibEl4UmFKdUdDQmZSU0JqdkdtQ1BvbWsxS3EzV3ZTdWhnUGw4NTVwSVdDVk5OYW1sVF9LNHBoOGFMU0RZTmNTOE00MjBoMnNySHc?oc=5",
+    "d": "2026-05-21",
+    "s": "동아일보"
+   },
+   {
+    "t": "HD현대, 美 안두릴과 자율 무인수상함 공동 개발…글로벌 ASV 시장 본격 진출 - 해사신문",
+    "l": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaUh3aWcxY09Qa3dCUGlPSk9Bd19leUFzUWpTeHBfdkhzZkZPUG1xV00tNDBwZ09YUjVVaXBRVXNhTndKVHNSTzZXWGpNWUZ1eTZLaDZnNkE1eHNGSHdpSm5TRUx6bmZtUjg4?oc=5",
+    "d": "2025-11-23",
+    "s": "해사신문"
+   }
+  ],
+  "karp": [
+   {
+    "t": "팔란티어 테크놀로지스(PLTR) 알렉스 카프 CEO 기업 AI 알파 유출 위험 경고 - simplywall.st",
+    "l": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUJ1b3dHNEpqUmhEeHZael8xOFJHUGtMaUNjUDd1cUtxTGppTXRvZHdJX2JsXy1zUUJrc2R1SzM2bno5clZzaXJSTzJpY0VKQTZ4dmdPb0o3ZEx3d0N3SmZRQlotR0Q5b3owNmVScGptUVQxeXA2U3R2T2FsaDk5LUZZa2ZLMklIbXVRM3RxZVZsOWRJZ1hMY2N0azFyRmpQ0gGmAUFVX3lxTE5BWEZWZ3Viam5TYmVhSmlleVBFNWkxelNMZVViUU5iVkpMZDFmY3pzZEVmSUVKYzg4RjY1YTVkcDlPeVpQX2pIYXRNNDhrM2JkZjY1cWgyUk5kX0RkOEt5NHBQczBvaG4xci11dlBzOHBRUk90UlRZSjB0R21HekZaazA1SFp0Y1BSYjdWTTh6bUg3ME12cy1Cekczb0RlM0VqYWRWdHc?oc=5",
+    "d": "2026-09-08",
+    "s": "simplywall.st"
+   },
+   {
+    "t": "우크라이나 전 국방장관, 팔란티어 CEO와 손잡고 방산 스타트업 설립 - 더구루",
+    "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uUGtPUEVlR09vNTZTdVI5WkY3SU54dzVZU1hGYlVRWFlxajBsN3lkVnVpR0dtZlIwNVlxRmIzZ1Q1aHdCNHNBWW10MTU4WWQ5YXZvbVdJRkRJb1JEUlE?oc=5",
+    "d": "2026-09-04",
+    "s": "더구루"
+   },
+   {
+    "t": "카프, OpenAI·앤트로픽 요금 체계 맹비난…팔란티어 주가 8% 급등 - Yellow.com",
+    "l": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRkxENEVPd0dUdGViMi15emZ4LXltRTEwcmdHWnZ3SjBjRjdUc2NuZ1Q3VDVybGluM2M0WFFwa3RFU3Z0OGNuLWl0Rmdlc2Y0UmhmdGtwUEtzdlByQWlTVUhqTFVSZGlxQjU4ZS1DcGRtLXBaQlpzYkFZMFZDMTRtQk5qTklwenQtR01sVjRIekRHYUNTc1pwRWFLbGcwZGowaGl6Rm95dHRFemhLQWUwTFA3bDVLeW1QR0Z2V0NoU1R0aUk5Z1BnMHFqOFRLQWhOSjdHN000ZEdhTmJfVTBRelNLTTNBWTFENWZyb2J3Ry1MSERCazVmcHJKcG9GcG5Nbk9sM1NFWjVEd3RRcm41WnFXWW5WVEFrR0NjWUhtRnBHZ1p5UmxCalR3SEZ5Sjctenc?oc=5",
+    "d": "2026-09-04",
+    "s": "Yellow.com"
+   },
+   {
+    "t": "팔란티어 CEO \"오픈AI·앤스로픽 모델 완전 잘못돼\" - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2VLNGFlMzUwVXFKY2tSLWJrMV9NdXRhSDM2QWZyMzBWR3d2VWY5UU9HaDVFMFpfRUxNOS1FMXdrMjBxSFRfRExSTXZBUUZjeVlEOWlrVjZtNy1scVZFSFBnQmdWSGRENFhsZ0c1T01TdDlBR3FhQVY3aHdpajAzX3g1cw?oc=5",
+    "d": "2026-07-03",
+    "s": "조선일보"
+   }
+  ],
+  "collison": [
+   {
+    "t": "스트라이프, 오픈라우터 인수…AI 결제 인프라 확장 - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52REJQa3d0bWJFRzBnd0NQcHQzWXVxeGZEVWFWLUM0REE5NDdJUXh5Uy16ZjFWRGlmbFFDTzNaMzNDbm5TZ1FQeFJvUTJ2dGwxekl5aE5DeFZwN2fSAWBBVV95cUxPREFFNXVHQjBDUkhha2w2Tm5CZk4yY1BGRy1PcERuYXh4a0xucWd0RjlBZFM5RFRQMDU4S0xtdjdqMFVyUUlDRmo1bXhOd1ZkTXNGZkxWVmV3T21DdzZHYWY?oc=5",
+    "d": "2026-08-20",
+    "s": "yna.co.kr"
+   },
+   {
+    "t": "샘 올트먼이 말하는 AI의 현주소: \"우리는 지금 거대한 도약 한가운데 있다\" - contents.premium.naver.com",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclZxZzBqRTlVYXhjcXZQbkVLVnYySnlsUmdtVGJUWUNMQ1dXMG5tT1VNOWs3b3Y0cHR5SUJyVC1YRHJHX3k0RmFjUzBVcFNVMGM3S2QydEFuX1BOQ0FWVGlZM0g2RXJyTnRVQlRudGJHR19CemJobHduZDNDN1hIRGYyYUFiU0ZR?oc=5",
+    "d": "2026-05-25",
+    "s": "contents.premium.naver.com"
+   },
+   {
+    "t": "스트라이프, 오픈라우터 인수 공식 발표했다 - 스타트업레시피",
+    "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12dUVPbG43UWJ6ODZmUmRTaGtrbEphZXdGa2d1eFUxdm9jTkpGaDhTQ0lMTGtNaXRPVkwzSEZWZnpCczl0NGwzNzNxWVp0YnFEc0dMS09OUlhwWnRLb2c?oc=5",
+    "d": "2026-08-21",
+    "s": "스타트업레시피"
+   },
+   {
+    "t": "'인공지능이 1인 창업 붐 일으켰다'는 실리콘밸리의 주장, 정말 그럴까요 - 캐어유 뉴스",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53THhXUlU3NUFtbkhGY0w4NU4zWVdhdXE1LURQSkdXY3BzYjVHSWRhbTFad2ExeWJrcko4cTQ3aDliQmdybDd6N0VhVE9CUDNwNEVNWnlyNUxiRGxDSDNrWEt3QkpocXoxOVZ5NlpB?oc=5",
+    "d": "2026-07-22",
+    "s": "캐어유 뉴스"
+   }
+  ],
+  "kimbeomsu": [
+   {
+    "t": "두 회사로 갈라지는 카카오, 쪼개기 잔혹사 끊을까 - 주간경향",
+    "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iRlVXd2lnaGY3ZEpYckpCMGhEZ1AxczBXZ2xPcEg5ZmxCSXlMUG9lcWg3RllhSW8zQ1I2X01rdFRpOFlLcUVWTGZVV2g4Y0hoWHFES1NMd3RBVVZGdUE?oc=5",
+    "d": "2026-09-06",
+    "s": "주간경향"
+   },
+   {
+    "t": "'SM 시세조종 혐의' 카카오 김범수측 2심 변론 \"시세조종 목적 없어\" - 연합인포맥스",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DR0RFQmtMcldpN0JveDVtN1FnZy1BRkxRMEZDUE1vQWpfMU80X1BKV05FSnhfVTNFMEttTXp0TmJVcTNRTjhRckUzRXZ0cUQ2eWVjUmxNVmVlV1dDdncwNGVVQWNPd3RDT244bnJMaGw?oc=5",
+    "d": "2026-07-22",
+    "s": "연합인포맥스"
+   },
+   {
+    "t": "[ZD브리핑] 카카오 김범수, 다시 법정으로…삼성·SK하이닉스, 美서 AI 메모리 승부 - 지디넷코리아",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR0RETnVzT2ZTS3ppREZaOEpKNzVnSnpLaWNkYlhvckFtVHJlb3ltVng1YWpJXzlTbkROT2ZEOXRKZkExdjFIT1hkb255b25oMkVyRFRB?oc=5",
+    "d": "2026-08-23",
+    "s": "지디넷코리아"
+   },
+   {
+    "t": "“7000억 설탕처럼 녹아”…카톡 자유롭게 해주잔 김범수 속내 ➁ - 중앙일보",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04T2kwVlkxS29fZjhxNVM3a2xNQ0dzZms5d3pXZDhjV1Vxa1BYQjg1WW4wd0gzbXVQWHE1b2hyU0w5clRWSGZTZDZyWEtiSUZENnlqckFn?oc=5",
+    "d": "2026-09-03",
+    "s": "중앙일보"
+   }
+  ],
+  "leehaejin": [
+   {
+    "t": "네이버 이해진 복귀 1년 반, 달라진 리더십..창업자는 AI 확장·CEO는 수익화 - 한국정경신문",
+    "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kck14TzNjMWZhMUNlZjN5NGhUSlV4Tk0zVi1yVDgyMjBnNS1tRVdPR0ZqZ0NDOGdGeWd4OFhqRV83YVQxYnN4dTdETVgtNXdwZGc?oc=5",
+    "d": "2026-09-09",
+    "s": "한국정경신문"
+   },
+   {
+    "t": "네이버 이해진 의장, 브룩필드 브루스 플랫 회장과 회동… AI 팩토리 구축 사업 순항 확인 - NAVERCorp.",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNFlWVDlyUWlpREJndmluLXRlcWQtbktKQmxjZ2xod0ZQbm9Kb3dDZm5IcEE5MWhtZm4zZWFiV1ZENW5tUXJQbzRFM2Fya3VwRVhfM0JiY3V2bEd5VF9ycVVWdkJyTnhrUHdqRUhNbzBwZw?oc=5",
+    "d": "2026-09-04",
+    "s": "NAVERCorp."
+   },
+   {
+    "t": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의 - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUUdDazRJU1NHX0w4Zi0zd0lDM1VQQUpOdzJVMjd2WUI2a2IzUTYxT19ndzd2cGh1V0EtNF9QbmdkSEMzYTNkQktqTGtYVUhJbTZVZUJUdVN6bDhkRkYxSTQwOWotRGp3eFE?oc=5",
+    "d": "2026-09-04",
+    "s": "AI타임스"
+   },
+   {
+    "t": "네이버, 디지털 헬스케어 전담 조직 신설한다 - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56MXJ1cUY0M0Z1WTdrU28wUVFkaGN5TDkwLWRPNUtMR19kSWhid0ZyQURHd1NHdFd3d3ozSGtXVmtndmsxaXJRVjRuYlpXWGtQZDNJN0ZCbEV1b05YLVpqNdIBYEFVX3lxTE56MXJ1cUY0M0Z1WTdrU28wUVFkaGN5TDkwLWRPNUtMR19kSWhid0ZyQURHd1NHdFd3d3ozSGtXVmtndmsxaXJRVjRuYlpXWGtQZDNJN0ZCbEV1b05YLVpqNQ?oc=5",
+    "d": "2026-09-08",
+    "s": "yna.co.kr"
+   }
+  ],
+  "kimbomseok": [
+   {
+    "t": "‘김범석 총수’ 법정 다툼 속…쿠팡 향한 공정위 칼끝 넓어졌다 - kukinews.com",
+    "l": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xd0pXZWdVOUxRLTVuQ2EteEw1c0R5X2NWZVpRRkxWUTd3UDBVam9ub1ZnVjJ5eG4xUW5iYy0wdTBCcjFBc1dPejhrb0VkMkdLZ3RQenNhNHo0Y2YtWTB6R3E5QQ?oc=5",
+    "d": "2026-09-06",
+    "s": "kukinews.com"
+   },
+   {
+    "t": "\"쿠팡은 쿠팡\" 탈팡 우려 무색…결제액 5조·이용자도 반등 - 뉴시스",
+    "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CTGtheXhVd2hEMmwxeThGb0p5elV0OGV5WUx1OThfUUViRjNZeFhkTzJWOV9Dc1hCaWFTTVlYTXhwZkJOclVoeURTUDRISUtqVEJuRHM5SHVoWFdUYnlWM9IBeEFVX3lxTE9xQ2xrYTc3bVR3X1JJUzJ5OW5zc1FuNEplVS00U1hQYjNhZHhmMWl5SFJ1ZmlCVTVrWm5GY2xXZC1KamZpaUhrOXI1eXowM3VCSXVWRFg3bzE4SXBPTUMxTnZKd3lIN0o2bzVsQmlFN051U0tpOUR6ag?oc=5",
+    "d": "2026-09-09",
+    "s": "뉴시스"
+   },
+   {
+    "t": "경찰, '청문회 위증' 쿠팡 김범석·로저스 불송치 - 뉴스핌",
+    "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oeHVMUkEwc0NoXzZCV29Yak83Q09vdWFXaGxPS0ZQWUpyczVENnloaks5dUNwNjJXbXNQSmROVlFUeDRaWEZWNWlCcWJxRHgydmxNWmxwN2czS0ZQ?oc=5",
+    "d": "2026-09-02",
+    "s": "뉴스핌"
+   },
+   {
+    "t": "김범석 쿠팡Inc 의장 \"이탈 고객 대부분 복귀…와우 회원 더 늘어\" - 연합뉴스TV",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDdUNOdC1vQjNqWDQyankyc19uMy1uNG0ydEhVWHQ4VHRlYy1vVzZpYUQzTWItLUpTUkJqRk54NkNSS1NUbU8zc19jT0ZjdUxEeE9UZWpCOUVlSkFobF9aUGgxT0ZMc3M?oc=5",
+    "d": "2026-08-05",
+    "s": "연합뉴스TV"
+   }
+  ],
+  "leeseunggun": [
+   {
+    "t": "금융 혁신과 실리 경영으로 핀테크 생태계 장악한 이승건 비바리퍼블리카 대표이사 - CEO저널",
+    "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aR3VGSWF6VWtQWGZzMXgzdTZhTDktQl9WSFJJX3FTUlVtazl5b1pBdy1VVng3Zm1hYVdWU0kyVW9JT3J6eWFSN1FLVGl0MnlEVGQ2NkFUT196ZTZacUJnMVN2ajZyd9IBakFVX3lxTE1MR2JPTDNxeXZxVHdpSEZabFNnbXdTVlF0MldxOG4tZVVjdk5nVmk3Z3NIMktCSHAtMkRjVVBZNXVyT2ViTXNHRTlRMHBUa3ltWmJfRllNdllmMnExd05PMm5aT2d6d0lBQWc?oc=5",
+    "d": "2026-09-07",
+    "s": "CEO저널"
+   },
+   {
+    "t": "[단독] '성과급 삭감' 우려에 토스 '부글부글'...이승건 대표 설화 논란도 - MTN 머니투데이방송",
+    "l": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNVBiY193c0RJQUJac3FLc0V2REVKUG1Sb2NycGRhQkRTZ1AzTmZRN08yWjhEUHRvR1I0Zl9kOU11a3pSdnI3LVlDb2EwaUd6a1VtYzI1bGlyUXg3T3JtQVhDdVA?oc=5",
+    "d": "2026-08-13",
+    "s": "MTN 머니투데이방송"
+   },
+   {
+    "t": "[단독] '성과급 삭감' 우려에 토스 '부글부글'...이승건 대표 설화 논란도 - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6WXluRFVvZTVDa3c0LVRYTXRWTnZMSlRhUDUyU1U4RnlLRExhVVBRVVpVdC03dUVWRkMxQzFOcF9lLU5iR3U3OXhTWFlVNmc?oc=5",
+    "d": "2026-08-13",
+    "s": "v.daum.net"
+   },
+   {
+    "t": "토스 무게중심 그룹으로 이동…첫 시험대는 일본 - numbers.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QVDE1YjBhOU95UlYtaHBxN0JxbEJQVGx5cURMblA2SWtKU0lNLVNnckVmd21QOS12ell3eGFDbTNoNkozYXRZNzNiMG9NRURYYWpabms3Uk5Wam13TUEyOWw2MTBMR01JV0V3?oc=5",
+    "d": "2026-09-01",
+    "s": "numbers.co.kr"
+   }
+  ],
+  "bang": [
+   {
+    "t": "하이브, 방시혁 송치 이어 위버스 개인정보 유출…\"잇단 악재\" - Billboard Korea",
+    "l": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxONlJqa3BJYnptYVlPU0EtcXAwSGdkUW5XcXdnOE80MWc1NzFSZ29xY2lETzZmcVl1WkxZTXhaT1o2OEV6NWh6aElUa1hCeEVKY1VKajNyOThlWnhRdzdYM2p1NGoxaWZ4cDJFQmlIbk0yMmVsTUQtMWtIN3RwSlIzLW5rTFZXNE5MNUp3Z1kwRmc2MElpZ0hoeGlRWWEzdnB2cDJvUDJKeG9aalhFVG5SMXQwaUFhV0xxcVJjWkp3Wmh5SlRlZnB4VUdTTXhvbWJHbEtWUm1PdXByeUtRT2t0dkVaNFJjY3lnSVk4NDYyRHFVenZWdnRneXNvM2VBWk5JSUVDTVV1c1RMdUZkUkRHdjdzb20yakZVY0gtZ05KdlJJZzNhbnZNdkZBSUpHT3ZYZFVwSWVpMUE5YTVRN19hbWFvUVRpZnQ3TFBFbXB6N3IzaXZ0RnEtQnZURC1aWW1MV09venhFNWRfVG50U1hDUU1EVks5aF92OS1DOEQ0YjEyMFV6RVBHd3NRY2hoQkEtVXJtZ3hSWl94UnFYNl92dlBHbEhMcERmdjRnOHJqODd0a2x0ajhDYVd5MDNYVndnajJwclZqc1JNT2owbERKV0p1TTJoVUJ4eDJjdGI1UVZYV0NldFRmaEFGdXNtMFNENVJqUg?oc=5",
+    "d": "2026-09-09",
+    "s": "Billboard Korea"
+   },
+   {
+    "t": "[속보]경찰, 방시혁 ‘사기적 부정거래’ 혐의로 송치…수사 20개월 만 - khan.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhT2h1VEViaUVYRmg5RUxyUjFvQzVuS242eG4wRjM5QWtpclJkazJLT1FFUjFoNENBWlBKeUxtOWZZQWZoZ0dMcmxEbXNhVlJxRmdPXzZIX0NjUdIBX0FVX3lxTE5fWjM1bUR5TVl5NWxpcGVFdkI0ZlB0SDRXYUVOc1JlaTktNHBSc1lfdTN4aE5JWFhuZXZjUzVKb2M4V0xIc2kzem9PUkV4ek9NOEwzRU9jai1QYmVMRGN3?oc=5",
+    "d": "2026-09-03",
+    "s": "khan.co.kr"
+   },
+   {
+    "t": "‘하이브’ 방시혁 지원사격…앤팀, 오늘 신보 ‘마크 온 미’ 공개→벤슨 분·박문치도 ‘공동 참여’ - mhnse.com",
+    "l": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QdHFKSEktYVBrVnVubF9JbWg2dHdZX2h2VGVSSFgxWHlSS3FjV3IyZ0JDSUtzcTJ1aTN4R3dTdlEwZUJZR3RFaDlocnU2aW5wOTNKNTU5THQ5NEdhbFJHZlE4VQ?oc=5",
+    "d": "2026-09-09",
+    "s": "mhnse.com"
+   },
+   {
+    "t": "'사기적 부정거래' 방시혁 21개월 만에 송치‥\"2천631억 원 부당이득\" - MBC 뉴스",
+    "l": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UmFZemNBbjhMRUNFWkFBcFlDeW5LdHZaSENMa3RaLUw2cm9uRnNrSC1mZjN5M1lwRU1UVUExel9ydDlmMWNTZG1PdUpzQVQwSVpOVXRsRlM4ck9MNTU0UnlERy1wYWlkdGpuVUdOMlpNbkpablIw0gF3QVVfeXFMUEhQTWxtU3NoNHBfVlB3XzQ1eERCZHI4TnRTbVIwSjRqemNhc05EaDBEZWNjSURmZ3hKYW5WTnBGWnM2NXFaaWRmQXBlMk9mOEdiLWotcEkxTWR4a1FaYW9vLWlMWWhRaFBaN1ZrTHFlbVVTZmkwbDg?oc=5",
+    "d": "2026-09-03",
+    "s": "MBC 뉴스"
+   }
+  ],
+  "kimsunghoon": [
+   {
+    "t": "[챗ICT]'국대AI 도전' 김성훈 업스테이지 대표의 자유로운 삶 - 비즈워치",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01NHNnMFhtLTlqS2I4VVVKUk1JZXktYURMRWVzdXV4dHMwM1JJUk4xNlFQYWVYME9mY1lYS1BrYXJSTGdpN0o1WUZoOXp0SXR1TV9nQ1BrNEtvOHJYX090WG1GTjU2X1NNQUE?oc=5",
+    "d": "2026-05-17",
+    "s": "비즈워치"
+   },
+   {
+    "t": "‘까치네’ 개발자에서 ‘국대 AI’ 업스테이지 수장…“모두의 AI” 김성훈의 도전 [창업주의 비밀노트] - seoul.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEEwdE5HallybWFWbmxmeTZYZ0tXQkhMMk5GY1RjMVAzN3d6NkpaTUJOVG5Dam9FeVNFWTg5UHNteFAySFFuYzFXaUs5aV91V3pUZzRsOEZoa21PajJINXUwWjA1SGNVRTFQdVhrdlctYWxYM0stT0RxQ0JGNkFUZzhwV2I3dE9SOWpN?oc=5",
+    "d": "2026-06-30",
+    "s": "seoul.co.kr"
+   },
+   {
+    "t": "[일문일답] 업스테이지 \"미중AI 통제 불가피…독자AI 더 큰 지원 필요\" - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWFFCWk9ITE5YTDNhNmt6c1FGV1ZVQWJUS1pkUVpjTlY2SE8zcUZYeXJ4QnlkWEtvWGFmYTRETUY5ZWdxemlzUW9xcFBoU3AwZHN4S3hfNlhWR2fSAWBBVV95cUxOQ1VHdjJmd2RsTlJiSHM5czYteWpXWF94aXlVeEYzaF8zdnNjOWZmdkZFckFpVk5pck03dTJjYlBic2JvTzJPQmhVZHRxcDZwU3ZYQjgzQU04dUdhNWE2c2g?oc=5",
+    "d": "2026-06-16",
+    "s": "yna.co.kr"
+   },
+   {
+    "t": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대” - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbVlJc3lMdjhBOVNVQjl4cjcyajJ6d0JHZGM4dEhwMk1kdTQ3dkkyS2pxVlhnM2hSV2pjNlRDaE5Uek4zSnlBRW00Rm9vdmxnMTZ1dGNZVG1KSEVoME44azNKbTY1S1E4LXc?oc=5",
+    "d": "2026-08-17",
+    "s": "AI타임스"
+   }
+  ],
+  "baekjunho": [
+   {
+    "t": "한컴, NPU 기반 AX 시장 공략 나선다...한컴이노스트림·퓨리오사AI와 기업·공공 온프레미스 AI 시장 공동 공략 - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tejVpZnlfWkNIQ1JsNGJXV1pGVFhYU2tKbkVOTlpiYmZ6dTN6aVhYdE9RRjJhZDVFbGFubVZMVjVVcm0welVHOUc4VEp1Sk9sU2RXQkY2T2dkX2FVWGtBX2NKUHZRNWM?oc=5",
+    "d": "2026-09-08",
+    "s": "인공지능신문"
+   },
+   {
+    "t": "한글과컴퓨터, 한컴이노스트림·퓨리오사AI와 손잡 - 글로벌뉴스통신GNA",
+    "l": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XM1RfX2JKb29jRGFfSDh2LW9LMVhVeTRJbDRKU3I5Q1VJRERqaFRxVjFJelVZUjg1YWQtUS01Vi1VWXU4aTNBdVRLbnZtbS05LTJWNk1NWGVmNGdwTGowMHBBSHYycUV6aXF1cFk5T3lwTWQz?oc=5",
+    "d": "2026-09-08",
+    "s": "글로벌뉴스통신GNA"
+   },
+   {
+    "t": "한컴, 퓨리오사AI와 NPU 기반 AX 어플라이언스 개발 ‘맞손’ - 테크월드",
+    "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Kdm41RzZZeENMTUVXNzlzYXhROWpCMWxZajRDMXY2SXNPVDJ5Njl3NGVDR093Qkp0eDNFNzVvZ3BzUGdNcldwbnFqRXYzdHJGZHFxVENjMHJZQl9jZW05RkN5dmtSN0Q4?oc=5",
+    "d": "2026-09-08",
+    "s": "테크월드"
+   },
+   {
+    "t": "한컴, 한컴이노스트림-퓨리오사AI와 업무협약 체결 - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GVnYxTWFHckpuT0pSS2duZEpaWndyVUJldmRmVmc2dXVFMmVQSFhEVjk4THpQdUpiODRhYWNGVEdWdjFXRkI4eENVbkR4YWNZRlFZcktxOHVDbkHSAWBBVV95cUxOSUxBS01KbHdrcVpNSU5GYWh2ckQ2akxaVUFUN2xZbGM2MHpIekVMbmxZM3pSU2FCOGttaHlaTWhmbFdqSGMyZm45UVlleWRFcWszZkdMbXpZVTM5QUpVVFM?oc=5",
+    "d": "2026-09-08",
+    "s": "yna.co.kr"
+   }
+  ],
+  "parksunghyun": [
+   {
+    "t": "'AI 독립' 외치는 리벨리온에…엔비디아는 M&A 손 내밀었다 - 한국경제",
+    "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJQ3BhYzIycVV4SEVaMnpYODJfTGI2Y2UtZmZQN3N2em1DYlpEMzR0aWZQbTE5dWphOGJmZEhDWjBwSlVKV2daVjVDNWJ3VUtyR3lZRzV2Q2djdw?oc=5",
+    "d": "2026-09-07",
+    "s": "한국경제"
+   },
+   {
+    "t": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - 뉴스1",
+    "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93R0taMXRoTFdubHFPZERrZDg5TS0xb3FRQkt5ZTBSQWI5bTJmN2phd3JXU1RTUlhhNTdhYkd2eTE2anhFQk9iN0Z1NUZpRmpQOVRhUkFFblJQU2tr0gFiQVVfeXFMTXRHc1k5OUdid0U2SnhUel9qeXBzejRXRmVqUE5Qa0lmWDZ0UHZ1ZUxiZ3hmbU52bDgyR2ZBVnVncDFmaWR2WHdkeHN1LUtjc3FqTXpRWi14SGxybF9aNUMyd2c?oc=5",
+    "d": "2026-09-06",
+    "s": "뉴스1"
+   },
+   {
+    "t": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - 스트레이트뉴스",
+    "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSEJTRk1KMVRvWTV0dWg0bGNZdnV0MjlYRmp1NDI1Uk9iWXA4c0lsZlB2Q0t4V05PTTFIX2JQaXdNa1lpYXZZcGFCeG9QT3F2cU1mRlBzNHp3SEVBLUpYUHJ0TFc0UGxySjBGWkNiVmY4S0HSAXdBVV95cUxQaURWcmRaT0J4dS16Ylp5b2dJMTY3bVo1VE1GRWItOGp4VzB5dTVEdlBsaURMbmNLQmVhSXBwODJZMXFYS2Q2LWlJajNIRnZFbzctRjhZRm90X0Y4R2ZOZUx4THZvaWM4UmtxSEtlZDZKZGhXczYwSQ?oc=5",
+    "d": "2026-09-08",
+    "s": "스트레이트뉴스"
+   },
+   {
+    "t": "젠슨 황, 리벨리온 박성현 만났다…\"인수 논의까지\" - 머니투데이 - 머니투데이",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRVdsOVp1R251d2gyV01pYlBZLVJzRy1EcXotd3BJeVp2a0tfa3dkRkJhNks0SUZpMDI1LUIwdkVFbkFQbkM1dzd5NHkzOG9aLXFFOUE5dHlGenFRaGZQZ1k3anJsV2PSAWxBVV95cUxQNGhNQ1czRk45TUlmUU9vMWtsdUNpUk51TGFXNlZXMDFEYjViLTJKX212cGdkNWk4M1phTGZSRFI2US05eHFvTENsZmJ1b0lJZkJPM3oteHRxZ1FOTC12NWMwQkxCbkFzenVOWGI?oc=5",
+    "d": "2026-08-24",
+    "s": "머니투데이"
+   }
+  ],
+  "leeseyoung": [
+   {
+    "t": "[CEO와칭]골든벨 상금 300만원으로 시작…이세영 뤼튼 대표, 해외서 국내 매출 넘어섰다 - 메트로신문",
+    "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRVpmZWF6OEgydW5GWmJDa2lKTTFnV2pXMlBEUkR5Qm40ZTdBWS1kNVhLZWN4Qi04VWNfNVFOeXJQZzhPMW10MnN1THllejBEa2Q1TWJIZkwtckpKby1PUQ?oc=5",
+    "d": "2026-09-09",
+    "s": "메트로신문"
+   },
+   {
+    "t": "이세영 뤼튼 대표 \"크랙, 청소년 하루 3시간·월 10만원으로 묶는다\" - ER 이코노믹리뷰",
+    "l": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtd2pvYjFWcXgxdnpfNzBGV04xbDRRZ09Gc05SX1ROWUhWRVlfZWNwS3d1X3IyUEdlcVB5eF9FNmVvYW45emx2UmhHdzBydlFIVWNBQzZnRmo5aXdlYTdGcUdHYWw4YzdDa3k4dg?oc=5",
+    "d": "2026-09-08",
+    "s": "ER 이코노믹리뷰"
+   },
+   {
+    "t": "'기업 가치 1조' 뤼튼, IPO 주관사 선정 착수...\"내년 이후 상장 목표\" - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNHdvZ19jRXdUYURQMnoyQ0FFZW0wTzNRZ1kyaXByb01XMFNmUkFuNXB5RlllN0ptRmZZVkpkN25adkNKZ2RIajBuQTVyV2NxRWJDQ0hLRG1CRloyU3BaMmtYTXBycnVPZ3c?oc=5",
+    "d": "2026-09-02",
+    "s": "AI타임스"
+   },
+   {
+    "t": "'기업 가치 1조' 뤼튼테크놀로지스, 1000억원 규모 시리즈 C 투자 유치 - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40ZURWdWJOV192NGl5ai1DeF9aLWI3ZGRUbnNINTNySG5IemdCZ3hyaThKRVp5cDQzUkYxQTRvZjZMR05KLVczNVRsMEJOUmdpSHpXOA?oc=5",
+    "d": "2026-08-26",
+    "s": "v.daum.net"
+   }
+  ],
+  "jangbyunggyu": [
+   {
+    "t": "크래프톤 장병규 \"펍지도 정체기 있었다…AI, 미래 성장축\" - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EMVRzS1o3eTJ4UGUwakxCbjIyT0pSZnZfTFBTbkRpaVVnTVVHUXFCQmVKZGxmNUdseU5VUEM1TnZlZGNNUXR1bEFzWUlReFU?oc=5",
+    "d": "2026-09-08",
+    "s": "v.daum.net"
+   },
+   {
+    "t": "크래프톤 이사회 의장 장병규 모디 인도 총리와 회담, 2억5천만 달러 추가 투자 - 비즈니스포스트",
+    "l": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oWWpXdHdQVUV1TktvRkRZZ2tvR3RoX2NNd1JRU2pXaS05ZVNfZVVUX2tfblFCdGcybW9TUElqbjBTWW9oUEZaSHp0bFQtaGh5YmdJUFZadER5QUtpUEY4SHVjMWMweFEtUW1najlPZjVnUjQ?oc=5",
+    "d": "2026-09-07",
+    "s": "비즈니스포스트"
+   },
+   {
+    "t": "\"성공 공식, 정해진 건 없어\" 크래프톤, '미지의 영역'에서 미래 본다 - 데일리안",
+    "l": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTEgtcUlzS0NTZTQyQVJ4Q0tCSTVpR2c4WDNBbW40VmJxRzhTU3VKbkVIeHRzM05fakhWWnFtcE5wWlE3LXlQSlNCWG9VZEZwdGtaQ0FWenFNeTcyYm5IQ2ZCamJ2b0J5dzFpb1BtVXROVUlGRU9lMmQ3aVlKUkpUMzl5dm9QcWhCUW9TNEx5MUJWd0ZZQjhBZ0pCT3RZdV9aYmg3NTNtUVp3aERlOGpRall2NmtRWXlRYUh5V3BxMzVWLUwxMmZmNWtiTVNzQktwUlRIYjN5ckxQSE5feUViekh5aS1SWl9hcWZiUEZOU1JFRlhpV0had1g2ZEFVWllEclF5QXh5RUU4Q2lo?oc=5",
+    "d": "2026-09-09",
+    "s": "데일리안"
+   },
+   {
+    "t": "크래프톤 “배그 성공은 시작일 뿐… 미래 성장 축은 AI” - IT조선",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NVXZqd3NSc0VNbC00X3R0U3daeGtDOVVtZzl0bDBFR0Izc3Vrbm9YNWZVeUQtb09FWEZnU01YdWhUTDFSSk5SN045YmtEWjlMMVJnLUVrcXlKck1EQlZGUm1zMWhoNlRWOEo4T1lKUzjSAXRBVV95cUxQMEhBRUNZSEhaZVVfYUc3b0g1Mk1vUnl4c1JiX2pGbzh5eFBhQ0JNYU5mekxvSkJqYmNmQ1IzQVpva1lPTWx2NFgtejhFanhDdUluUi1yNXRtVm4wVEtQSG8xN3phLTYxTktiTUZETmtFUmhoQw?oc=5",
+    "d": "2026-09-08",
+    "s": "IT조선"
+   }
+  ],
+  "liang": [
+   {
+    "t": "[차이나 급보]중국 AI 경쟁력의 진실 - 헬로디디",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RZF9KT1liTks5S0VQcDR5cXpzM2ZZczRxTy1HVDl4ZEhwMEJyMEdEYmp1OWdKbmNaMndadVJMSXl5SnBEWkVUYzBzQ2lBSG80cXNxV3BpcFdaVTJDc1Rud01wcEpCR2NDekE?oc=5",
+    "d": "2026-08-04",
+    "s": "헬로디디"
+   },
+   {
+    "t": "\"미국과 격차는 오직 컴퓨팅파워뿐\" 창업자 발언 유출에…딥시크, 2차 투자 중단 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PRk1OekRUd3ZaQ095YzVFbTdRRjZBWjViSGRKbUZteWlZMlBkUktiOWlRVk04bHA2eG9XcmlublFfSXR3Z3VfWjJBZXdLVUNDZDYzaVhQczhIakRiUFlpNlc3WnhkR3huSFQ0Zk5n0gFyQVVfeXFMTnQ0M2pldGpmdFRPUzVjVUZLT3AxRUJNWGQ0R29rSkIzMzlUTmdFRzIyeXQ4UW80TVZEN1BSME1Sano5M2NwckEyTmpHLWZDQUlhUVFDdnJzNUZvX1lhcTFKOHlOUHFFanhhOGctbzFCRjlB?oc=5",
+    "d": "2026-07-26",
+    "s": "AI포스트"
+   },
+   {
+    "t": "[김대호 인물] 딥시크 량원펑(梁文鋒) 범용인공지능 \"AGI 첫 개발\" - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW83c3Ryb2lvNmt4QjhqNEluWTdkWXRpWVVuUFhoWWpkMFRZWVFJVjNITVdUOWNqTU05NFhhWDFBNmQzbjdSYzVZSS0xcHY3OHdkRHpwT1RUS2ZrVVNlcWpPVzE4TVJKcUxQdHh4NlJUTks2eEZlOFZ0ajQwRHpfU1p2bFdTUQ?oc=5",
+    "d": "2026-07-27",
+    "s": "글로벌이코노믹"
+   },
+   {
+    "t": "[중국 특징주] '엔비디아 의존' 량원펑 발언 새자 딥시크 자금 조달 중단 - 뉴스핌",
+    "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQURfY0RmMEFrRUVmRi1GOEE2aFpiMFRoeS1abUEwdmYtLXhkdExqYTBNeGMxczkySEl4c1BRbi10Vk0zSjk4R3V0UWZIYV85dExRc2Y4WEs1QlFi?oc=5",
+    "d": "2026-07-27",
+    "s": "뉴스핌"
+   }
+  ],
+  "wangxingxing": [
+   {
+    "t": "유니트리 왕싱싱 “휴머노이드 ‘챗GPT 순간’, 10년 걸릴 수도” - 플래텀(Platum)",
+    "l": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuR0xoc2F1R2xNbzI4Vm5wUkdEbTM5aGZfTTc5Z1JPM1FZWEdCTm1JdW5fcnRoalZ0WDlBeW1CdnZxNXZPekRZdg?oc=5",
+    "d": "2026-08-21",
+    "s": "플래텀(Platum)"
+   },
+   {
+    "t": "유니트리 왕싱싱 “이르면 2∼3년내 휴머노이드 산업 폭발 성장\" - 연합뉴스TV",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83N3dwTnBnQnRpaFZDbzFCanBxd29uMUZOY21mSzQ4UW90eTlMM1M2N2NNd0ZMZVJjYU16YWJ4Y2RldHQyZnJ2WW5rOGZxT0hJcnUxVUtnbjAzYXRjeVY0Nzk0NzhKNUU?oc=5",
+    "d": "2026-08-20",
+    "s": "연합뉴스TV"
+   },
+   {
+    "t": "4만원 로봇 만들던 中대학생…세계 1위 넘보는 ‘로봇왕’ 됐다 - 중앙일보",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13US1kMzBCSjJpdnZRaDNBeXhOeVdMSmdoaTJ4WjljUHFSVVVIa3o2YmpzVlRDSml1Y3JMcGt0and6NWJIY1RndzRraUJxMjZDVnlFNm1B?oc=5",
+    "d": "2026-09-03",
+    "s": "중앙일보"
+   },
+   {
+    "t": "“낯선 환경 투입해도 스스로 임무 수행… 로봇의 ‘챗GPT 모먼트’ 10년 걸릴 수도” - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWpteXVGaHdBcVdES0hzSW5ndGZtQWZmX0ltSXdsd1YweC1SSzhIamMyV0taOS1ycHkya0NCS1VaU01XbnVBdXB1bHVuM3RUNzQ0dGxiWFliN2NwTkliNlhFa3ZNZ0liWjRjQkNBUFQxaE9LcWItU3E5M0pSNzlfeEllbw?oc=5",
+    "d": "2026-08-24",
+    "s": "조선일보"
+   }
+  ],
+  "zhangyiming": [
+   {
+    "t": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘 - AI타임스",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUXlXNDZJNXZ4aGRhQmtvSl9WdkZJWTBoN2pINENaQTlTelBweVdXNk9lVV9mS1A3dWpDcHdjM0ZHbkdCZkR2X2hXV0JWek9vZWp2MVJHQ3I1cUpzZTFySkloZFFCb2FBcFE?oc=5",
+    "d": "2026-09-08",
+    "s": "AI타임스"
+   },
+   {
+    "t": "바이트댄스 창업자 장이밍, ‘월드모델’ 개발 경쟁 가세…메타·구글과 맞붙는다 - 지디넷코리아",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CbkVkZm42aFhwMC1BdkJETG44SnN5ZGFJb0FwVS0wSEx2cGJPcEZOaHRBYnNiY2VpMkJHeUNxV3k5V19NVlBGcEtoQkRTdDFNWjhjNTBR?oc=5",
+    "d": "2026-09-08",
+    "s": "지디넷코리아"
+   },
+   {
+    "t": "틱톡 넘어 AI 가상세계로 中바이트댄스, 월드모델 경쟁 가세 - 아주경제",
+    "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aeEg5MjAtbl9USWtJeFlueFdwUXFsWjhtR1JTcmhpQ2Mwd0JJSGU0eUpfbFFGdExab0w3QjFyQUZnb3RidHRFblNLOU16WU1Gd2ZpOFFGaU7SAVhBVV95cUxOWnhIOTIwLW5fVElrSXhZbnhXcFFxbFo4bUdSU3JoaUNjMHdCSUhlNHlKX2xRRnRMWm9MN0IxckFGZ290YnR0RW5TSzlNellNRndmaThRRmlO?oc=5",
+    "d": "2026-09-08",
+    "s": "아주경제"
+   },
+   {
+    "t": "바이트댄스 창업자 장이밍, 실시간 공간 영상 AI 개발을 직접 총괄한다…이르면 다음 달 공개 - AI 매터스",
+    "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuLWR3ZGhZa1hxTFVQUDFvdC01cVF0aFNmdE5GVmJiN3NWaDlmY3k5dmVaSkl2MmZsQ1Z3Y2tFVW03Y0d1MDVzNVlETlpZSnQ3SGJfSA?oc=5",
+    "d": "2026-09-08",
+    "s": "AI 매터스"
+   }
+  ],
+  "wangchuanfu": [
+   {
+    "t": "[CEONEWS 스페셜리더 51] 전기차 공룡 BYD의 심장, 왕촨푸의 혁신 DNA와 글로벌 영토 확장 - ceomagazine.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85TTgxR2F3LTFSVjNOUmhRXzFhYUhNSVZSX0lpbnhUeHJTbUEydVhiLVZJdXdFT2FaRkRBekxLYUJ6ellDRkN3VmZUNlZwZkNYMVpNbTBEeDBkUzZKenFn?oc=5",
+    "d": "2026-06-25",
+    "s": "ceomagazine.co.kr"
+   },
+   {
+    "t": "[기업과 인물] 왕촨푸 BYD 창업자 - 브런치",
+    "l": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oSkRNdF9hSTdoME9ZZGk4dXQydHplVW9ORXlNQVJmVnM2NDFEaU8wYVVjWmQ2SHVZbTBqZmp1ZUFkdkN1eGQ1QmplYm9Fdw?oc=5",
+    "d": "2026-09-01",
+    "s": "브런치"
+   },
+   {
+    "t": "'9분 만에 충전 완료'…BYD의 배터리 자신감 - 한국경제",
+    "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSE1ZdFNmRFNUU3dEdnRFekpUenhvR3p6ajlsc3J4UzYyZUNKWjg0Tk1tY1J5MEFJZlR2WmpjYkJrTHJUX0trSl91WF9vajhuY0FNRDE5TUlpdw?oc=5",
+    "d": "2026-03-06",
+    "s": "한국경제"
+   },
+   {
+    "t": "배터리 연구원에서 세계 자동차산업의 승부사로…BYD 왕촨푸 - eanews.kr",
+    "l": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEYjBjX1YzZGVrMTZVS1ZUa3J1YV96NU5ZaWlyeWlrSlNaUTNtR01HVW1NemJVZTRaWHM4cjBqN0s3ZGxEbENRTA?oc=5",
+    "d": "2026-08-12",
+    "s": "eanews.kr"
+   }
+  ],
+  "zeng": [
+   {
+    "t": "배터리 R&D 격차 벌린 CATL, 안정성까지 넘본다 - 디일렉",
+    "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ucXJKUGRna3R3b3J3c1h5ek04LUlzc3VIN3o3cUdiOHpkaEU1ZlRxZnJ1TlV3ZnhpdnE5ak5famV5aUdHNHdKc2N4cVVSSThvbGkxM0lLNG5SNnF3VmZKclV3cElmQQ?oc=5",
+    "d": "2026-04-22",
+    "s": "디일렉"
+   },
+   {
+    "t": "中 배터리업체 CATL, 세계 최대 억만장자 산실로 부상 - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGtXRmFUc0JDejhkSHBRM2o1YlNPN3ltay1wNlNUNDAtU1h6UzRjRGFlMTBCMzRtNlRPNTMwc0JzYVBrWTVmdUJEcFZjdVhBOEtlREc3dE5zM3RDdTkxUk16TzdveWJ0WWc5amoyUGgwUUNIbTJheFkxTGlnX0pRX3lVMXVrbkNS?oc=5",
+    "d": "2021-05-05",
+    "s": "글로벌이코노믹"
+   }
+  ],
+  "yangzhilin": [
+   {
+    "t": "기업가치 67조 문샷 AI, 실리콘밸리 거부한 33세 핫샷의 반란 - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFQ5N1VSc245Tm00SndIYVRjTndnQjM2OFJSSmJTdm4xc0hUN2RrSlRnbnloTHBpbXZ2cUk0X0xWcHdxbmRlNFJHUmJWU2l0WjRlYUpueXpBTU1TUnJFbFJ2VF9ZdnNLU1MyNkxDeUpRdDZJTVRkTlE5eFJSa2NpQXlmX2hLSTQ?oc=5",
+    "d": "2026-09-04",
+    "s": "글로벌이코노믹"
+   },
+   {
+    "t": "중국 역대급 AI 모델을 만든 92년생 창업자 - pado.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HZVZLVmdQekpoYnI5NDZVMUlCQjhmODdDOVk3YjYzUDQ5ck1WcXFtTGVBdGVjUkpXV3paQUFodTNGaXZOakEwbDZYeERjUU9wbHcyTTRpWlhHNG8?oc=5",
+    "d": "2026-09-04",
+    "s": "pado.kr"
+   },
+   {
+    "t": "양즈린, 키미(Kimi)를 만든 33세 연구자 - 뉴스N연합",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SWXNQRklJbEtNZnh1UnhHRFhua0tlMEpvRVlRS3c1eWxxR1hnT3RraVdsdzhMekhyWXViSnNMNDRmalh3clppU3liX0dEaWc?oc=5",
+    "d": "2026-09-08",
+    "s": "뉴스N연합"
+   },
+   {
+    "t": "타임 '영향력 AI 인물 100인'에 양즈린 등 중국 '약진' - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNnpZaU8ybTVzTlU0LVFjRU4zVWZBVVF0eFFlYTRXN3gwSGU5S2lFUFNfUXFPVzdIekVNT0xHRzV4MmhfdWkycnJka1d2M3pNRDktZHctd3lUb2PSAWBBVV95cUxPMVJuazR2NEpyQ0hsUEkwNENZZFh5N25yaGhFOVB6RVpvNGlPUFA2SEdPWm5VV285ZE5IR2c0V1lRZGd1dUQ3RE1nSTlpSGduaUVJMi1oYUFqSEg1LWJiMEc?oc=5",
+    "d": "2026-08-28",
+    "s": "yna.co.kr"
+   }
+  ],
+  "frankwang": [
+   {
+    "t": "시장가치 137억달러···중국의 '드론 황제' 38세 왕타오 - 중앙일보",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZy14Y0tYZjc0aGRyOEgzVHBJNGJGR0FDNkNRSXNFaWppUEQxWm9xLUJ3NlVWbWl6em1GNTdxNV91OXBlam53d0EyRFlPaTBzMXFncnZ3?oc=5",
+    "d": "2018-04-21",
+    "s": "중앙일보"
+   },
+   {
+    "t": "[중국경제리더] 하늘 향한꿈 세계 드론시장 제패한 DJI 왕타오 - 뉴스핌",
+    "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdk9XS3VxWEdoSWNHcmNVaWhNRmh3TnRYcXUzTEE5LXFRdURSMFliUHBZZE1aaWx2X3NkeVMxZ1NMWkxCTF9qaHlSSkZUWjlQMkNGS1R0Wm50Y2xN?oc=5",
+    "d": "2016-03-30",
+    "s": "뉴스핌"
+   },
+   {
+    "t": "세계 제1위 드론생산 ‘DJI사’ 심층분석(상편) - 일요주간",
+    "l": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQnZWN3NDY1lRRkRZS09DR2pLSkRYdHdmX0JzbWhHVnlEeEcydjZMa0FmejhSVE81bWNsYThLNFRDbnUyb0dBZzBobUZpVUpDOWFrcGFYX1UxWUd1VDhJWG5qeWt4TWFQbUhjWExzaS1ONWx6ZHFR?oc=5",
+    "d": "2018-04-12",
+    "s": "일요주간"
+   },
+   {
+    "t": "[BIZ Insight] 프랭크 왕 CEO, 모형 비행기에 푹 빠졌던 소년…'드론계의 스티브 잡스' 되다 - 한국경제",
+    "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fYllPbWpUbnROVG1aMGlFa09qRkozdWk3ZVhpaDJmRkdnaGszVC13SlZ5cVFSb1ZfTmtDVGlKYWVaNDh5S3FQUFpETlJ2dGQtTVVZNldSRTBJdw?oc=5",
+    "d": "2016-03-25",
+    "s": "한국경제"
+   }
+  ],
+  "son": [
+   {
+    "t": "日 가계 예금 움직였다… 손정의 1조엔 회사채 완판 비결 - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamtPMHNMV0lXa2xVbG9EZnQ5VTJtLUtERmxLZi0tZUtudFBreWxSQmluV3ctbDA4NmNFeEw4UVNzZEtZLVJEYjY3RkRfN0psMHNfRmtNbVg1NHlCWERqbkhBYU9JV2YzdlhtSnBmRWc0T2owYUVmME5TbTN6Q2F6QUpHd3pvYmhaUEhGcnhn?oc=5",
+    "d": "2026-09-08",
+    "s": "조선일보"
+   },
+   {
+    "t": "다이버티멘토당 슬롯 무료 : 전문가들의 조언 - Calgary Roughnecks",
+    "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aUG9xR3pSMmRfX3JQempjNHNpdUc2NHJvMHR3cUF5blNieGtSOWh6Tm5aTHVobFBwWE5kZ2o0QXdodF9UOVJHdW1fVWZqZUx5amdIX0lDV2hKeklJdnRpSm80OUlDcHdBZGc?oc=5",
+    "d": "2026-09-05",
+    "s": "Calgary Roughnecks"
+   },
+   {
+    "t": "\"전 세계 시가총액의 80%는 AI가 가져간다\" 손정의가 예측한 2040년 - contents.premium.naver.com",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDV2WFNkTkNnS1pYWE94aWIxRGF5dFl1TVUtV2wxalVBM0szdV9xdU93SXpELUsxMVlJM2JWWFBYR0FWQVVXcG9rYkN4TE1wNHdJRUtNQzVTQ0VObEppMWxSZnB0djFIM3RDQjBTWTlZUzVKZC04TVVTaEVLQXR3dnQtLVFtY3Nk?oc=5",
+    "d": "2026-09-07",
+    "s": "contents.premium.naver.com"
+   },
+   {
+    "t": "트럼프 기념관에 '710억'‥美민주 \"손정의 해명하라\" - MBC 뉴스",
+    "l": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XekUwR1JLbVFDNWhDZ2JqQ095TDFFV0FlMktWS2Z5R0J2Vl9FR0N3dDVWWFVndzlSa09CSjNTOVhfWE9IOEVwUk9OenZqUy04R3E3aG5mUVdwY1RzVE9Rd0tlS015NmlqRWtjOHJ6RldXQ0tq?oc=5",
+    "d": "2026-08-07",
+    "s": "MBC 뉴스"
+   }
+  ],
+  "davidha": [
+   {
+    "t": "구글, 日 AI 유니콘 ‘사카나 AI’에 전격 투자… 제미나이 확산 위한 전략적 파트너십 - 글로벌이코노믹",
+    "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3lqMTJ1NUoxRlpLWUU4dnJ5SHRmSndkblpxbGM2R3dzVDc1dkZfVHpRc2JrQzF3M18wUGRmQW1XTk82M1l5WVZhWldrWFNxSlhjV21nQXJGaE5MOEZBZG9SbU5ZU3R2VWxBdncxZXdJM3RYamhMUHI4Z0I0ZG1VUEtQMkZnTFBN?oc=5",
+    "d": "2026-01-25",
+    "s": "글로벌이코노믹"
+   },
+   {
+    "t": "[분석-글로벌성공기업] [사카나AI] 단일 초거대 모델 대신 ‘집단 지능’…AI 승부수 - 비즈니스리포트",
+    "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wVjJBWVo5cGk1MGR4d3JmRGJaYnI1OTVkWkhTVl9aZEJ3anZ0bldrR2tyUk80TU5yTXRTYWNoWS1yaWFOUXFhMGs3dFh0ZXpfcFYtWGVQS194bWM0eDVRRTJhV0pWN3hsSVNjTmljSQ?oc=5",
+    "d": "2026-03-01",
+    "s": "비즈니스리포트"
+   },
+   {
+    "t": "사카나 AI, 25억 달러 가치로 1억 달러 투자 유치 논의 중 - Investing.com 한국어",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01cnZPR3dWaVEwVHFBMndTem53dFJsVG5qOGRTaWhpMU5ITGtiOHl4YmhoeHZBTUV0c1RoYk54ekNEc2ZVM09iU2p1NHBRTG9kM3pINUtINXhJWmRKalZwaHEzSGlEMllGY3Y2bmM3R2w?oc=5",
+    "d": "2025-10-21",
+    "s": "Investing.com 한국어"
+   },
+   {
+    "t": "07화 1년 만에 유니콘이 된 AI계 '슈퍼 물코기'! - 브런치",
+    "l": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VcEZZZ0FyRmZPWllJV3kyNzVURHpmNjJpcjd3dG83NUE3QkhzZUZtZTlSQS1Pd3hIUkRxZkJTZ3JRbENQMWZKdQ?oc=5",
+    "d": "2024-11-04",
+    "s": "브런치"
+   }
+  ],
+  "nishikawa": [
+   {
+    "t": "도요타, ‘자동 운전에 필수적’ 일본 AI 벤처에 1,070억 출자 - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoUm9rWXhzVzRDRmlUalRrZzNCbGx6LTE3UFBKd29SWWl6ak5YRWd6dGhMSGYzdUEwMkFlXzBFdnZaaC1sMlRoNktyblZyUTJHVjB3aWVHZWtxa1I2OVBMaHZoREdzXzg?oc=5",
+    "d": "2017-08-06",
+    "s": "인공지능신문"
+   }
+  ],
+  "mikitani": [
+   {
+    "t": "【회견 전문】라쿠텐・미키타니 히로시 오너로부터 요시이 리인 신감독에게 「승자의 멘탈리티를」 이론파의 신 지휘관은 투지 멜라멜라 「승하자」 「정신론」｜파・리그.com｜프로야구 - パ・リーグ.com",
+    "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vZ3BYc2NBN214Z1ozUnpjYTZ2WDNjS3RLdVA1TnRiZElYQlN4RklxZElpcmgzWjBUSnczVnYxYUtwZUZpRTU1WjlUOUNWOWd0MXBSUU1NTjM2R0pJZ2c?oc=5",
+    "d": "2026-06-17",
+    "s": "パ・リーグ.com"
+   },
+   {
+    "t": "성황리에 끝난 라쿠텐 이치바 ‘K-Beauty 컨퍼런스 2026’ - mk.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRGZZQ3JQNmtwZzVNb21XLWZpZkJFZjcxU2wwRkRHZGZSZjlWN09VNW5WTl9IeVF4Qm8tV1FORmZ2dWhpUGlmSFhuemJnMVJjRHBpc3F3?oc=5",
+    "d": "2026-08-20",
+    "s": "mk.co.kr"
+   },
+   {
+    "t": "[MWC 2026] 미키타니 히로시 라쿠텐 회장 \"이통사, 구글보다 데이터 많지만 '황금 광산' 제대로 활용 못해\" - Nate News",
+    "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbWx3UU5xTkdsWTY3bFh1azBPbkl1RGVOSzBfSFZvS1pNU202SnZ4YmtOb1dEX0U3Q1FqaF9tS3E1UzVEaV9Xc1JVajFrUVBHNmpn?oc=5",
+    "d": "2026-03-03",
+    "s": "Nate News"
+   },
+   {
+    "t": "성황리에 끝난 라쿠텐 이치바 ‘K-Beauty 컨퍼런스 2026’ - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ESkYzeWRyR0p1SUZ2ZVFWak01emZLRmFpSEM3SzBnMXVicEZ2RDUwcEdXUTBBS2lsQmN1bktuelhuLWFrMGttenRYVFBxUlk?oc=5",
+    "d": "2026-08-20",
+    "s": "v.daum.net"
+   }
+  ],
+  "hassabis": [
+   {
+    "t": "딥마인드 허사비스, 'AGI 카운트 다운'.. \"인류 역사상 가장 중요한 전환점, 글로벌 AI 안전 프레임워크 시급\" - 인공지능신문",
+    "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44VHZGMGxEaWdjcFBNMXVDSnFiQWRrck1iTGJHMnRyT1dzZXRMOTJmZXlRVm1fM3U4cWhQaU0xcG1rVXdLb1ZKSnpSbVNSemtqSE0zQmZTUWg2UVc3aVBhUjQ2WjdKQnc?oc=5",
+    "d": "2026-07-15",
+    "s": "인공지능신문"
+   },
+   {
+    "t": "허사비스 2선 후퇴, 제프 딘 이탈… 재편하는 ‘구글 AI 제국’ - 포춘코리아",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ibHhka2diT0NucmdCTHIzX0g5eWNaWlp1TE42V2c0QlRncjlQNDBKbjJuUHBQeF9qOHNfeWhRN2hub1N4Zk83Q3d1ZjNBOElsWGtxTEZZczlwVWlqWGY0THYzRGtDLVhCeXlDTDlBYVBwQdIBdkFVX3lxTE5xdy01VFhBQUN6YkVPVjdVWHYxVU90TnZmdHRwbHktM1Jfa2NDU01UWUZJS1pCaTM0c1FpNTF5SVpVUW5XdHpyQmNDcmlWazB5djVIMWFJZm43SE5sSlpWR1NNSFhtME5Kb0hmX1VndUhMUFJ4OUE?oc=5",
+    "d": "2026-08-06",
+    "s": "포춘코리아"
+   },
+   {
+    "t": "데미스 허사비스, 딥마인드 CEO 물러나 AGI 연구에 올인…구글 전설 '제프 딘' 퇴사 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPV1BFMURBczFSamtDejhxMWp1VnBwcmhxZ0o1dlVjMUxVWm5Nakc0dEJvRHJvWV91aW1KXzdBQ0piQV9EaXl3cWJJaXlQaVN3NWVUaUtUSkhoVXFodTFGWWJSLWhRM0dxTV92VHdB0gFyQVVfeXFMTXNWRjI1Ni1WbnlENjNOd1ZEZnBFYjJxOTdwRVhRZVV4Q0gzWWxTcDhPLU9fOFptZEh1NDFxV1pJZXlHNHAwWjYxUkpmQ2tPZlh6dU9vclh3LXhaS0FHQ2lic01ERFJsQXE5MktqSmxRZmd3?oc=5",
+    "d": "2026-08-06",
+    "s": "AI포스트"
+   },
+   {
+    "t": "구글, 올해 서울에 해외 첫 'AI 캠퍼스' 세운다 - Korea.net",
+    "l": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkd2S2trTnV2Q3BVVVJMX04wQmlmWWNPVm5CM2JYTGdYa1h2RzRPODdGZTZKa3hkaWJVOTNCaUlmOEFlMXJyWEUwQkp5ZE1LMW5CclpiWkxPbG1jTS12RVZUQ3VzRG9pNk1nVVd1QzRQQzBKTDdRVVJYOHh4MFZKbUZJWG8?oc=5",
+    "d": "2026-04-28",
+    "s": "Korea.net"
+   }
+  ],
+  "mensch": [
+   {
+    "t": "미스트랄AI, 삼성전자 주도 투자로 4.7조 조달…기업가치 33조 - SBS Biz",
+    "l": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qMm1iRmRoMEJJVDhwd2haZWhGVWtaaU8weko4ZzhXUHQzNkZCalQwczJKMkQ1RndKSWo2RmNCeVJ5SVVoMUdqWkQ5aUIxbHJmV2RZ0gFYQVVfeXFMTlhQQjhCSXU2RHp0akUtYktQOFFFY3lTRU8yWU12MzNtRUJkbUhOZzB5bk5vb3F5UHFXOFZTU0xUYno3SU50cnViVHZEYnQ0M2JleVJtdXdWSg?oc=5",
+    "d": "2026-09-08",
+    "s": "SBS Biz"
+   },
+   {
+    "t": "'유럽판 오픈AI' 미스트랄도 자체 칩 설계 검토 - yna.co.kr",
+    "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VaVZSbkh2Mzd1cVdqQW1TOEV1Q3pIMFJ2X2VPQjhCMFA5bWkzeG9kS2F6cGFjOHBOVklhQWFtUUlrWEd3Nmo1aU5YTmVpSnNIUkh5WlZnRnhjRWfSAWBBVV95cUxNdWNMRC1hWm5ONjIzanV4UjJvWmtMSE1rZ2ZUMEIzRWhTaVIzeFBBYVVVc1FVdWVvZDZad2lOUk5iSG85UUdyNFRLNjl5VzFBc1RfRDR5NFI2aGtrU0xGdkk?oc=5",
+    "d": "2026-05-29",
+    "s": "yna.co.kr"
+   },
+   {
+    "t": "'유럽판 챗GPT' 미스트랄 AI, 삼성과 전격 회동…\"AI 메모리 협력 논의\" - 매일경제 마켓",
+    "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lX1hISV9OOVNfbWVCSXRyUmJIaXBLbmZ5M1c2T1YwXzR2VDJBTUFmZy1NakFrMkU3UU9la0J5c0V5ZUFqTVdydi1TT1NsNTBtWWc?oc=5",
+    "d": "2026-04-05",
+    "s": "매일경제 마켓"
+   },
+   {
+    "t": "[유럽스타트업열전] 이재용 옆 33세 스타트업 창업자…프랑스가 그리는 ‘미래’ - 비즈한국",
+    "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QOW5Pb3BkMk9OQXZCT1pPSTVjYl9vMDBxMS1WY2JfWkhGZUlVT1ViMS1NbkJEZmZPVVRlMGVYRWNHdmphdXlINUFrWTFHdE5mVW9IVw?oc=5",
+    "d": "2026-04-10",
+    "s": "비즈한국"
+   }
+  ],
+  "ek": [
+   {
+    "t": "스포티파이 창립자가 '연금술사'의 팬인 이유는 무엇일까요? - Vietnam.vn",
+    "l": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQbFdQUHVPa3hDSll3QmhiZXZuZkd6V1hDWTlzSWJaWE9yZHZVVmpMOEFBQ1lQdUNucHdqRFJLWC1DS1FqTG9ObDY3ZGhFMGZGZG1tUnNaNGo3RHdLT1IxQzZFRnU1QWhkZl9CNVE5Nnh4QVpJQmc?oc=5",
+    "d": "2026-09-04",
+    "s": "Vietnam.vn"
+   },
+   {
+    "t": "[빅테크칼럼] 스포티파이 창업자의 '네코헬스', 100세 건강에 1조원 베팅…\"회복 캡슐이 아니라 조기경보실\" - 뉴스스페이스",
+    "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrOVkxQ1AxS1p6d0ZQdGlweW5wVjFwUHNaeWpjNTRPaGEwWFJhaWRmYVJ5S1FjbXg2Tl9FZWhYWUIxQnBEaWYzWFQwWjktdjgtT08yWVJRT2tkTTNtN1Qtbw?oc=5",
+    "d": "2026-09-04",
+    "s": "뉴스스페이스"
+   },
+   {
+    "t": "스티브 잡스의 성벽에 정면돌파한 남자, 다니엘 에크의 역전 - 기호일보",
+    "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tUUxuUnJXYkJ5ZFllMUhDVDI1SnNReFg0UjRZVUV5cWdGaDhPeEFSWVBLVV93alhNZVQ1UHFnbldFV0FmTDNwMm00R1I2dHRPeDlBSkE2MjhSR3ZUeEpocFpkelFMeVp1STlGZEhOaw?oc=5",
+    "d": "2026-06-24",
+    "s": "기호일보"
+   },
+   {
+    "t": "스포티파이 창업자 다니엘 에크, 2026년 CEO 자리에서 물러날 예정 - Investing.com 한국어",
+    "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QYS1tUFVaZ1Z6WFFDVU95ZGJaUmVFSnJNQVNaSDhvakNlb2VZVXV5Q1JNUFNVV1ZoaXdFbThQVElZem9aa01zZjJScTJNOTVKbVMwQ2ZSckJRT0JCNHVLYUpiTXc2ZkxCMU5oblVDazk?oc=5",
+    "d": "2025-09-30",
+    "s": "Investing.com 한국어"
+   }
+  ],
+  "kutylowski": [
+   {
+    "t": "구글 이긴 매끄러운 번역… 딥엘 창업자 \"한국어, 세계 5大시장 될 것\" - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm1vLURseFk4WXNkdUlTOUptUW01ek42b2VOcmNNWkdZcUFkeFZ3a0dXZGUxcGJWdkVhTFNOMEdfVkd0aExiVlltSk5wUmhhTTRrVU5mZGxTNm1YbjBRdmJhTGRaSWdUbE9IRk9neE92bl9BaXMxWXV5ZHNHcDFDY3h0RQ?oc=5",
+    "d": "2023-05-10",
+    "s": "조선일보"
+   },
+   {
+    "t": "“구글 번역 저리가!” 우리가 번역은 한 수 위… 딥엘 CEO “한국어 시장 커질 것” - 디지털 인사이트 DIGITAL iNSIGHT",
+    "l": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQV1l1T2p4UUkzWlpMbnFxZW5ubUJhWGtMQ0dJUzNLa0lFdF8zZTB4dkdVZHJuQ2t2TVJVOUVKNGgtZWtoTW04TWFHNjNRMXpmSlFBN3dhZVZjUG91bWdLU1VKVUE5TGh4UUpEZ2Z6Z1BYLVFFbjNPZUtDZTNSdUx0cTEwa0xGOXBWZllFbTBrS2lIaU8waFZDWEpOa1gwNHgyak9ycTdXMW5nbDJpbWlOZllzQjd4OXBRV0ZpODl6VTAzTU1Vd29FSERCcUE4blU3QkJGOUprblBXODZGUF9DQlNMemNaYzRrQ2NRVDFqZWh6Sy1Ub0NrME5zTXZibDQ0bmw3dVVqNlhMb1pFb0wtY0FWQmZSMjNvelNoQmxrdVEzUFY3MU1rLU14UU8wdw?oc=5",
+    "d": "2023-05-10",
+    "s": "디지털 인사이트 DIGITAL iNSIGHT"
+   },
+   {
+    "t": "AI 번역기 경쟁서 구글 이긴 ‘딥엘’… 한국 스타트업, 지금 시작해도 늦지 않다 - 조선일보",
+    "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWVJUkh4WXJpeGlvQi1FVWcwUU9iclVKNW9XS3lVdXVsSHVHeUJ3TEhxWEpkRGduTC12Qm02dGZXM2NMSzFuU285TlI5b3k3bmczQkh0NmtsMm5Fd2pCcjYzdlBuLVVvNThSbTVQSEpOOWhtdzNnb0FWRmoza0IwY1U4QQ?oc=5",
+    "d": "2023-09-12",
+    "s": "조선일보"
+   }
+  ],
+  "osika": [
+   {
+    "t": "02화 역사상 최단 1,400억 매출, 러버블 - 브런치",
+    "l": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JeldFVzdlc2JheFhtUTNBNEdWTzZnTHd1N1lzMWwtMkV6TmRhVjh4aVZjRXh5QXJiMjN5Y2F2SmYzTktaUEdjcWhBdDRCZw?oc=5",
+    "d": "2026-08-25",
+    "s": "브런치"
+   },
+   {
+    "t": "[AI는 지금] \"6개월 만에 몸값 2배\"…러버블, '바이브코딩' 광풍에 VC 줄섰다 - 지디넷코리아",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2NGVyQU8tTklta210UmQ3WlBNdUFDazBXNzdpaTRLRS14YmhLUklpQkpnWndMYm1LUHpTX21ZSGkta2JjMnkyN0V2S0dLT28zYVNQOVV3?oc=5",
+    "d": "2026-07-10",
+    "s": "지디넷코리아"
+   },
+   {
+    "t": "\"창업가 출신 인재들의 놀이터 만든다\"…'AI 코딩' 러버블 CEO의 '인재 영입' 승부수 - AI포스트",
+    "l": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84V3RhUUpkUmt2WGVqdEliUlU2R0xBRWM0N2o5bHlSTG5yZmljRWl5ZWVHUXZJUUx1TkxXcGlBMk82WE9XSURWNVdnMlpIY1lNNHVpb2N4b2g4blhyMkU1c2xTejVKR2F5cTQ3WDh30gFyQVVfeXFMT0VwYjBtVTZlM05jSUJzOFA3MG5kUlNPOFdpRnh6cGN0Rk5uS01TY2lCU0tIeFZrcEU2TlhLdXMteWFpbEk5cmw0WnBaOWpZZFZLalBvdGdDNDJMV3lNTE44a05BVDI4ODAwNmhvZ09XVUxn?oc=5",
+    "d": "2026-03-25",
+    "s": "AI포스트"
+   },
+   {
+    "t": "30세 미만 자수성가형 억만장자가 급증한 이유 - 포브스코리아",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE51SFlfLTZ0enlPbVlNWEVrS25pN0ZNUHE0SDdaT0tyV3ByMTROTlRiT01iQlpfdDA3S1hubTE2QkdBSFRxbnJfY055LUdHZFlRMkt3TC1XUVJKLWo2ZDdXYzJ5Zk02UElmcDNGZVBEMzVKZw?oc=5",
+    "d": "2026-01-29",
+    "s": "포브스코리아"
+   }
+  ],
+  "siemiatkowski": [
+   {
+    "t": "와퍼 굽던 청년, BNPL로 세계를 뒤집다 - 포춘코리아",
+    "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wdTM2MXhpRFZ0UXRjMjBvQWhxbnZmaHlSWUlfUl9vYmpfQUNiWE00YjctOUVrTmNRby01NXZjNHg4S2piN1luQ21pV1NxYUI4ZUFZVXhTYUYxU0dBdno5NE1DdXVlMlpySlduNlEzMlR1QdIBdkFVX3lxTE1TcktaNFlZZlFXemhTTUp0SFdVLVNjRmstVFFwQnJDdDhGSVg2OFZSLTRqRTk3Wlk3U2dGMDFjTXZ3THd2UGRXWHZWUFFqemZCbjd6ekJEdTgzLWxwVDBnVElOUzlaeFR2TlpYWFR1Vmk1NkozTWc?oc=5",
+    "d": "2025-09-16",
+    "s": "포춘코리아"
+   },
+   {
+    "t": "신용카드를 위협하는 '클라나(Klarna)' - 데일리e뉴스",
+    "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0aHpMUlhySnlYMGRzVURJZWMyMWxVV1hXQ0RoQXZKWjhHNjBicjRaaTdHSm9FTk5BUEZ2RjR4UGVhNkJhUWdrTnNiTlRrMzBVOWRxTzBUc0hLZGtOWTFrbUp4aGNKckxsdmlieS10OA?oc=5",
+    "d": "2025-05-04",
+    "s": "데일리e뉴스"
+   },
+   {
+    "t": "AI가 대신할 줄 알고 잘랐는데…기업들이 다시 사람을 찾는 이유[씨리얼] - v.daum.net",
+    "l": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbDUxdHFPSHppekRZVmduSFN0Q21UZGYwX0pOazdNRzRyVEVaLVR2TE82ejZ5ZTlUQVpObzc4Z2k3R01xQWNtR3pVR1o0R2M?oc=5",
+    "d": "2026-08-02",
+    "s": "v.daum.net"
+   },
+   {
+    "t": "17화 AI에게 밀린 700명이 돌아온 이유 - 브런치",
+    "l": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFXzg4ejlNLUlJVDhDR2dPYjJDek5FWEhSQ2x4ZDJFclluZ2luUlJjemg0ZFFEY3Y3andvVWgxMzVBcXFLeHlr?oc=5",
+    "d": "2026-04-08",
+    "s": "브런치"
+   }
+  ],
+  "beck": [
+   {
+    "t": "'소형 발사체 강자' 로켓랩, 일렉트론 94번째 발사 성공 - 초이스경제",
+    "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tSVpGVllFdXZqblRKMXVpMTJ4YjA0blVVR19wWElRNk5mNGRILXJkWm00dDlZclRXci1xTjFzQ0pnMlhxX2Z4ckNzdVk5TkNXNDZaTUIwUVJPQWNDYlNtQWZNM2lxUlFkWkE0Tmo4Y9IBc0FVX3lxTE82RWtjOV9KQ3NVcXhkQVdMTG1ZMzViMlRwQkR6aDhKVmpaMkVlalQ4RHBLbnRxLTViMHlSejI3akxBVGJBUzVjZWlDYVB1NENBTUx4cnVhNUN4d242WlZLM2I2VlhULXJpd2trNmJUMDNoZXc?oc=5",
+    "d": "2026-09-02",
+    "s": "초이스경제"
+   },
+   {
+    "t": "낮에는 세탁기 부품 만들고 밤에는 로켓 독학…촌동네 총각이 만들어낸 괴물 - 머니투데이 - 머니투데이",
+    "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TcDEydWdXd0J1aklJWU5tbjVJNGYtV040aXZOQTZCWVZ4Rm81bFJ0T3Q5cDNCQzg5ZnVZYVVTTGkzTkt2d3NYa3F0blpkb2h1Z3gyc1VROW1JbXF1X1d3a2VUR0pueXpf0gFuQVVfeXFMUF9HMGt1T3ZzOWhTTklteEF1alh4RUsybHFBd3FXZ0s4WHJCNVdYUTF1NHBDb0hiMVlQMGFuLW5VS05CMDNGdC1KWG84WHpMZ0lsUGpPeGdISHBKV29FQUlYeVhleW0yMzdvN2Fidmc?oc=5",
+    "d": "2026-02-16",
+    "s": "머니투데이"
+   },
+   {
+    "t": "‘남반구 아이언맨’ 로켓랩 CEO는 어떻게 머스크의 유일한 적수가 됐나? - The Miilk",
+    "l": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MDNxTEkyYVBoRUFWTDNtNVVuWFpyVm50SGtfLTBlWkxCak1LVTg0Vk8zUmxjVTZmNl9IM3FQdExDNE81eWF1cF9HbUYza3JwZUlhMFlR?oc=5",
+    "d": "2026-02-05",
+    "s": "The Miilk"
+   },
+   {
+    "t": "로켓랩 CEO 인터뷰: 발사체에서 위성, 탑재체까지 로켓랩의 엔드 투 엔드 우주 사업 전략 - contents.premium.naver.com",
+    "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1ZLX0txZXdRaVVrVXdndzJMTHJ0N2x4TXJCeE03WFF6QXFsX3BGbG9TOW1kcnozS290d19Ba2pzWk9QTHo0S0wwTXo4X1ZwazBtejQ3ajVLTjVKNENBdWVnYTFiRHJTZnBUbzJ1SHB1Tlg2RkFRbTc2akY5Rk5NekJMa21TZzg?oc=5",
+    "d": "2026-01-20",
+    "s": "contents.premium.naver.com"
+   }
+  ],
+  "perkins": [
+   {
+    "t": "“아이디어 내면 AI가 알아서 디자인”… 어도비 대항마 캔바, ‘AI 2.0’ 출시 - 조선비즈 - biz.chosun.com",
+    "l": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTEwTkxZNUJrQXNSRElYNVM1NG5GVkp3N3Nwdnl3Ymdta05aQmZVcUFpMk1CR3VhZktCNDdHYzhHcUZDMUpVTVpyam5OSDlfRzBvZU1MVG1LVzMzZVlLOXhmZmpoYTNlWTVrdWI2UktfU2xkQWdjeTVSWVZQSHlDUTRR0gGWAUFVX3lxTFB2ZG9SeUxxV3pFZFl3QWRmdTI2Z0lmSWJaVEtMVHdETm9YUVJkbk1rQl80VkJjeHdMY3cyeWJKaUd4d0FiMUVGZ19Pamx1YlAyaHFYbEU2UVh3cG9ZNlJ3SlhCOElLS0NCUVZDRzhDSTA1RlNxMFhaSnBvOEktZ0FtRE83RXg1c0FhWmxEc19YdWZoV0E4dw?oc=5",
+    "d": "2026-04-17",
+    "s": "biz.chosun.com"
+   },
+   {
+    "t": "[꿈을 이룬 사람들] 누구나 디자인 전문가로 만드는 캔바 창업자 멜라니 퍼킨스 - 모바일한경",
+    "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaml4UFNmanYwY19LdVh1VUlTSnFINWJBVllpMGlnaUJtZ2dvXzZaR2xoMXhPSWM5R1ZYclEzazVvbWdEeTdDbmJsaFRCc3JFOEdUM3BxTHE5Nm8tY1hOYkxjclh3UzFqdGNsY28tWmlZdUlpd1NoS0pvX0xYUXVJMWtKMFNQcm8?oc=5",
+    "d": "2025-06-30",
+    "s": "모바일한경"
+   },
+   {
+    "t": "대학 중퇴하고 알바 자금으로 창업…43조 가치 기업 키운 퍼킨스 - economychosun.com",
+    "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IcVRtbV9fUGJ1V3VGOF92R1Ixb2loY3FjLXpWeHVReXljQVNDYzMzNkdnYTlzUVJidE12TFhFaEZXWWwzSUVGSnZDLWtvUjVPM3lOTmlGNV9JSUljYzR4SGpfdkp2YmNCLXFXUjh0OXcyd184NzRaeGR3SC1kd2c?oc=5",
+    "d": "2021-12-05",
+    "s": "economychosun.com"
+   },
+   {
+    "t": "캔바는 어떻게 AI 시대에 더 번영하는 회사가 됐나? - The Miilk",
+    "l": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96dmFtX1BiVGNPYjkyV29vUlhfOV9wV3NHLXZrR1lIX2hUclNpVWJyYTB2eng3R0RGd3pKRGxCUTBaSGJOTDBPczNzekVxYWx3?oc=5",
+    "d": "2024-11-13",
+    "s": "The Miilk"
+   }
+  ],
+  "tan": [
+   {
+    "t": "레이저, 전 세계 1337대 한정 ‘Razer Boomslang 20주년 기념 에디션’ 발표 - vtimes.kr",
+    "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDUXZmbFRGWU1mS044b1BBWFBDQnpzNnJiTi1jRmY5RjFERFpwVXpXVnkxNkoyN1V4SGVTejljYTNRVGp6T2E4bmtzclFLNXMzanlFSTVhRU01V241R1ZMc1BQSXlLZw?oc=5",
+    "d": "2025-12-12",
+    "s": "vtimes.kr"
+   },
+   {
+    "t": "게이밍 헤리티지의 귀환... 레이저 붐슬랭 20주년 에디션, 최첨단 무선 기술로 재탄생 - 테크데일리",
+    "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00Vm5nUjhNb1I3TTI5Mnh3UGhoekFkY3F1eUZpa09QOXQwR3pFUFIwdWU0T0hJM0JTV0czS3VVNzREUmd2MEZUWERIQXNkdkdwcmRWY0NjVDQ2aTlfQUhxc0ozNHl3UWgxbkd5Y2lmQQ?oc=5",
+    "d": "2025-12-12",
+    "s": "테크데일리"
+   },
+   {
+    "t": "레이저, 전 세계 1337대 한정 '레이저 붐슬랭 20주년 기념 에디션’ 발표 - 워크투데이",
+    "l": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMDUtNktpaWtvRmhlOTBsU3dlNkp6RXQ4NlhDc21TUTQtNjJ5akJEeURTdnU3NERVWlJ0dmpqZjU5NEVWQUhNRUx4TGRKSEV4YllpaFUtUnlTNDVCZjdMVlY1MTlmREdoaEtyUw?oc=5",
+    "d": "2025-12-11",
+    "s": "워크투데이"
+   },
+   {
+    "t": "레이저와 비자, 동남아시아 결제 시장 혁신할 제휴 협력 발표 - 뉴스와이어",
+    "l": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXM3V6TjBOcU12dmJLSmJlaDZydHotclZuTzBnRkllZzVtb1d3SEZYNldwa1FQUjBSbGY3Tk9Gcm1vb0NSeUtwdjBXckJiSEdNZ1ZLdUFLUTdmSUVLMXc?oc=5",
+    "d": "2019-06-24",
+    "s": "뉴스와이어"
+   }
+  ]
+ }
+}

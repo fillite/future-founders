@@ -1,0 +1,43 @@
+name: 뉴스 자동 갱신
+
+on:
+  schedule:
+    # 매일 21:00 UTC = 한국시간 다음날 06:00
+    - cron: '0 21 * * *'
+  workflow_dispatch:        # 저장소 Actions 탭에서 수동 실행도 가능
+  push:
+    paths:
+      - 'data/people.json'  # 인물이 추가/수정되면 뉴스도 즉시 다시 수집
+      - 'scripts/fetch-news.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 뉴스 수집
+        run: node scripts/fetch-news.mjs
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 건너뜀"
+          else
+            git commit -m "chore: 뉴스 자동 갱신 $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M KST')"
+            git push
+          fi
